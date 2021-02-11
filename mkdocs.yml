@@ -7,5 +7,29 @@ repo_name: BobDaGecko/Cyberflix-Docs
 
 theme:
   name: material
+  favicon: img/favicon.png
+  logo: img/logo.png
 
 copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.highlight
+  - toc:
+      permalink: true
+      toc_depth: 5
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
