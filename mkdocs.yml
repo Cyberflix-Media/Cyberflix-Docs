@@ -8,6 +8,8 @@ repo_name: BobDaGecko/Cyberflix-Docs
 
 theme:
   name: material
+  palette:
+    scheme: slate
   favicon: img/favicon.png
   logo: img/logo.png
 
