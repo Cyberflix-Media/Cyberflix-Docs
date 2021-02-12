@@ -18,8 +18,8 @@ copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
 nav:
     - Home: index.md
     - About:
-        - Release Notes: about/terms-and-conditions.md
-        - Contributing: about/privacy-policy.md
+        - Terms and Conditions: about/terms-and-conditions.md
+        - Privacy Policy: about/privacy-policy.md
         - License: about/license.md
 
 extra_css:
