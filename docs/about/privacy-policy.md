@@ -15,10 +15,10 @@ This privacy policy is subject to change at anytime. Any member accounts will be
  - All chats
  - All uploaded media (user profile images)
  - Approximate location (inferred from IP address, not GPS)
- - Content watched
+ - Email addresses
  - IP addresses
  - ISP information
- - Logs
+ - User session logs
  - Passwords
  - User agent and browser locale
  - Usernames
@@ -26,8 +26,8 @@ This privacy policy is subject to change at anytime. Any member accounts will be
 ## How the data is used:
 Data collected through the Media Center is used to:
 
- - To allow for ease in troubleshooting issues
- - To improve the service offered to you 
+ - Allow for ease in troubleshooting issues
+ - Improve the service offered to you 
  - Ensure proper service functionality
  - Carry out administrative functions
  - Gather statistical data
