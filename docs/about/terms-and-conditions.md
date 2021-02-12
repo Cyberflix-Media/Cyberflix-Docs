@@ -4,8 +4,9 @@ Welcome to the terms and conditions for the Cyberflix Media Center. In order to 
 ## Definitions
 The Cyberflix Media Center is a network stack of various [projects](https://docs.cyberflix.io/about/license/#included-projects) that are made up to organize, manage, and share digital media files to networked devices.
   
-!!! note The Cyberflix Media Center can be referenced by the following aliases.  
-  "Cyberflix," "The Media Center," "The Center," "The Server"
+!!! note The Cyberflix Media Center can be referenced by the following aliases.
+
+    "Cyberflix," "The Media Center," "The Center," "The Server"
 
 The entirety of the Cyberflix Media Center is managed and owned by BobDaGecko. BobDaGecko is the only administrator and has full access to all accounts, data, and administrative functions. BobDaGecko may be referenced by various aliases such as Bob, the Owner, the Administrator, the Admin, Administration, Management, or any other specified alias. BobDaGecko is the only user with administrative authority and must be respected as such. BobDaGecko holds the final authority on all issues.
 
