@@ -23,7 +23,6 @@ Projects used by the Cyberflix Media Center.
 - linuxserver - [View license](https://github.com/linuxserver/docker-documentation).
 - mergerfs - [View license](https://github.com/trapexit/mergerfs/blob/master/LICENSE).
 - MobaXterm - [View license](https://mobaxterm.mobatek.net/license.html).
-- Monitorr - [View license](https://github.com/Monitorr/Monitorr/blob/master/LICENSE.txt).
 - Netdata - [View license](https://github.com/netdata/netdata/blob/master/LICENSE).
 - Nginx - [View license](https://nginx.org/LICENSE).
 - NZB360 - [View license](https://nzb360.com/forums/viewtopic.php?f=3&t=2).
