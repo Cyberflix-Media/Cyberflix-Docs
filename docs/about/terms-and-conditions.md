@@ -56,7 +56,7 @@ An active account is measured in mutiple ways. The first is by simply using and 
  - Chatting with other members and using the community Discord server
  - Reacting to announcments and responding to BobDaGecko, feedback is needed to maintain the community and Server, please help with this
 
-The follwing lists the different periods of activity.
+The follwing lists the different periods of activity.  
  - All the time (20+ times/month)
  - Quite a bit (15+ times/month)
  - Often but not too much (10+ times/month)
