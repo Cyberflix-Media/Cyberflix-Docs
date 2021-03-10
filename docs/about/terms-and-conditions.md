@@ -7,26 +7,33 @@ These terms and conditions are not legally binding and would not hold up in the 
 These terms and conditions only apply to the members of the Cyberflix Media Center. Any guest or non-member otherwise is not bound by any provisions defined by these terms and conditions. However, any user may have any access to the Cyberflix Media Center terminated for any reason at any time.
 
 ## Definitions
+### Cyberflix Media Center
 The Cyberflix Media Center is a network stack of various [projects](https://docs.cyberflix.io/about/license/#included-projects) that are made up to organize, manage, and share digital media files to networked devices. A project is any computer program used for development, deployment, production, and maintenance within the Cyberflix Media Center.
   
 !!! note "The Cyberflix Media Center can be referenced by the following aliases."
 
     "Cyberflix," "the Media Center," "the Center," "the Server"
 
+### Administration
 The entirety of the Cyberflix Media Center is managed and owned by BobDaGecko. BobDaGecko is the only administrator and has full access to all accounts, data, and administrative functions. BobDaGecko is the only user with administrative authority and must be respected as such. BobDaGecko holds the final authority on all issues.
 
 !!! note "BobDaGecko may be referenced by the following aliases."
 
     "Bob," "the Owner," "the Administrator," "the Admin," "Administration," "Management," "@BobDaGecko"
 
+### Members
 A member is any registered user of the Cyberflix Media Center who has had their application accepted. They have full access to the Media Center and have full authorization to the Frontend. They are the only group who these terms and conditions apply too. The Cyberflix Media Center holds no hierarchical system among its members meaning no member holds any authority over another member.
 
+### Frontend and Backend
 The Cyberflix Media Center is made up of two halves. The Frontend and the Backend. The Frontend is any site accessible by any member of the Server. The Backend is every site that makes up the backbone of the Server. The Backend makes up the administrative and media management parts of the Server. The Backend is inaccessible to any normal member of the Server.
 
+### Programs
 A program, application, server, or site represents any project in use by the Cyberflix Media Center. Each holds a different definition. A program is simply a normal computer program that is used for a variety of purposes within the Cyberflix Media Center. An application is any project that is either on the Backend or Frontend that has a user interface. A server is any program that hosts individual clients per user or session. A site is any program that is forwarded and hosted on the internet. Multiple projects may hold multiple definitions.
 
+### Network Stack
 The Network Stack is the compilation of all programs, applications, and sites used in production within the Cyberflix Media Center. The Network Stack in it's entirety is not accessible to members and is only used to represent the technical side of the Media Center. Please see [here](https://docs.cyberflix.io/about/license/) for licensing.
 
+### Services
 A service or services are all functions offered to members by the Cyberflix Media Center. A service may represent access to a site or authorization to a function within a site. Services hold an administrative purpose and are used to enforce moderation. As such services may be invoked or revoked at any time for any reason. Below is the list of services offered by the Cyberflix Media Center.
 
  - Access and use of the Jellyfin Media Server
@@ -42,35 +49,20 @@ A service or services are all functions offered to members by the Cyberflix Medi
  - General Membership to the Cyberflix Media Center
  - Power User status for requesting content
 
+### Activity
 Activity is the measurement of active time spent using the Media Center. See Activity.
 
 ## Conduct
 
 ## Activity
-Activity is a measurment used to moderate the number of user accounts, ensure proper usage of the Media Center, and to foster a prosperous and fun community. Activity measures the time spent using the Media Center. It is a metric activly monitored across all services. Maintaining an active member account is required to keep an account. An account may be purged if failure to maintain an active account occures. Much like the disciplinary actions taken upon failure to abide by these Terms and Conditions and Server rules, failure to sustain an active account will result in similar consequences. Please see Failure to Comply for more insight into actions that may occur.
-
-An active account is measured in mutiple ways. The first is by simply using and watching content on the Jellyfin Media Server. This is the easiest way to maintain an active account. This can singlehandedly handle activity but it will not get an account any benefits such as Power User status. The second way is by requesting content. This is done via Ombi. Content requests are the way the Server's media libraries grow and they ensure the health of the server. Requesting content can get an account Power User status but does not ensure the hightest account viability. Finally, is by being active in the community. Being active in the community is integral to the Media Center's health. The follwoing lists the ways to be active in the community.
-
- - Take place in community polls for new features and large content requests
- - Take place in community events such as watch parties
- - Chatting with other members and using the community Discord server
- - Reacting to announcments and responding to BobDaGecko, feedback is needed to maintain the community and Server, please help with this
-
-The follwing lists the different periods of activity.  
- - All the time (20+ times/month)
- - Quite a bit (15+ times/month)
- - Often but not too much (10+ times/month)
- - Every now and then (5+ times/month)
- - Very little (<5 time/month)
-
-If an account is being used very little, this may result in disciplinary action.
+Please see the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
 
 ### Parking Accounts
 It is understandable if an account is not being used as the member is not interested in watching content, they are away, or have some other reason, they can request that their account be parked. In this case, the member must contact BobDaGecko requesting that their account be parked. The account will be disabled but all user data will be maintained. When the user wishes to resume usage of their account they can again contact BobDaGecko to request that their account be reenabled. A user can park an account for up to six months and consecutivly park it at the max twice. If an account is parked for longer then one year their account will be terminated and the user will required to reapply again.
 
 ## Privacy
 
-Please see the [privacy policy](https://docs.cyberflix.io/about/privacy-policy/).
+Please see the [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/).
 
 ## Applications
 To ensure the stability and best performance for the Cyberflix Media Center, there is a limit to how many concurrent members there can be. The current max amount of members is 30. Due to this limited space, the Media Center employs an application system for new members to join.
