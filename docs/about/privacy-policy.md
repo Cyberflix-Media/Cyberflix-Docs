@@ -10,7 +10,7 @@ By using any of the services offered by the Cyberflix Media Center, you consent 
 
 This privacy policy is subject to change at anytime. Any member accounts will be notified upon alteration.
 
-## The data that is collected
+## The data that is collected:
  - Access times and activity
  - All chats
  - All uploaded media (user profile images)
@@ -32,7 +32,7 @@ Data collected through the Media Center is used to:
  - Carry out administrative functions
  - Gather statistical data
 
-## Data removal
+## Data removal:
 If you want to have your information deleted, you need to provide your username, applicable application data, and your IP address. This is the only way to identify your data, without this information your deletion request may not be fulfilled.
 
 Contact [support@cyberflix.io](mailto:support@cyberflix.io?subject=Speedtest%20Deletion%20Request) for all deletion requests.
