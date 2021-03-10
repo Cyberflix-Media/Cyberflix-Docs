@@ -57,9 +57,6 @@ Activity is the measurement of active time spent using the Media Center. See Act
 ## Activity
 Please see the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
 
-### Parking Accounts
-It is understandable if an account is not being used as the member is not interested in watching content, they are away, or have some other reason, they can request that their account be parked. In this case, the member must contact BobDaGecko requesting that their account be parked. The account will be disabled but all user data will be maintained. When the user wishes to resume usage of their account they can again contact BobDaGecko to request that their account be reenabled. A user can park an account for up to six months and consecutivly park it at the max twice. If an account is parked for longer then one year their account will be terminated and the user will required to reapply again.
-
 ## Privacy
 
 Please see the [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/).
