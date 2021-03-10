@@ -20,6 +20,7 @@ nav:
     - About:
         - Terms and Conditions: about/terms-and-conditions.md
         - Privacy Policy: about/privacy-policy.md
+        - Activity Agreement: about/activity-agreement.md
         - License: about/license.md
 
 extra_css:
