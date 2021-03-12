@@ -8,7 +8,7 @@ There is no personally identifiable data (PID) ever used across all of the Media
 
 By using any of the services offered by the Cyberflix Media Center, you consent to the terms of this privacy policy.
 
-This privacy policy is subject to change at anytime. Any member accounts will be notified upon alteration.
+This privacy policy is subject to change at anytime. Any members will be notified upon alteration.
 
 ## The data that is collected:
  - Access times and activity
