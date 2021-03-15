@@ -12,6 +12,10 @@ theme:
     scheme: slate
   favicon: img/favicon.png
   logo: img/logo.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.expand
 
 copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
 
