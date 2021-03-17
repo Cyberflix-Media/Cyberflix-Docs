@@ -21,6 +21,11 @@ copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
 
 nav:
     - Home: index.md
+    - FAQ: 
+    - Jellyfin:
+    - Ombi:
+    - Organizr:
+    - Discord:
     - About:
         - Terms and Conditions: about/terms-and-conditions.md
         - Privacy Policy: about/privacy-policy.md
