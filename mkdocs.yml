@@ -1,4 +1,4 @@
-site_name: Cyberflix - Docs
+site_name: Cyberflix - Documentation
 site_description: The official documentation for the Cyberflix Media Center.
 site_author: BobDaGecko
 site_url: https://docs.cyberflix.io/
@@ -21,11 +21,11 @@ copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
 
 nav:
     - Home: index.md
-    - FAQ: 
-    - Jellyfin:
-    - Ombi:
-    - Organizr:
-    - Discord:
+    - FAQ: faq.md
+    - Jellyfin: jellyfin/temp.md
+    - Ombi: ombi/temp.md
+    - Organizr: organizr/temp.md
+    - Discord: discord/temp.md
     - About:
         - Terms and Conditions: about/terms-and-conditions.md
         - Privacy Policy: about/privacy-policy.md
