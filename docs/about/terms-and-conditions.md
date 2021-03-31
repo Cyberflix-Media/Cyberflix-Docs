@@ -21,9 +21,6 @@ The entirety of the Cyberflix Media Center is managed and owned by BobDaGecko. B
 
     "Bob," "the Owner," "the Administrator," "the Admin," "Administration," "Management," "@BobDaGecko"
 
-### Members
-A member is any registered user of the Cyberflix Media Center who has had their application accepted. They have full access to the Media Center and have full authorization to the Frontend. They are the only group who these terms and conditions apply too. The Cyberflix Media Center holds no hierarchical system among its members meaning no member holds any authority over another member.
-
 ### Frontend and Backend
 The Cyberflix Media Center is made up of two halves. The Frontend and the Backend. The Frontend is any site accessible by any member of the Server. The Backend is every site that makes up the backbone of the Server. The Backend makes up the administrative and media management parts of the Server. The Backend is inaccessible to any normal member of the Server.
 
@@ -53,6 +50,46 @@ A service or services are all functions offered to members by the Cyberflix Medi
 Activity is the measurement of active time spent using the Media Center. See Activity.
 
 ## Conduct
+The following guidelines lay out the most important rules for any user in or related to *any* of the Cyberflix Media Center services. These guidelines are stricly enforced and little leniancy is given especially to higher grade infractions.
+
+These guidelines are laid out hierarchically as some rules hold greater importance to others. There are three levels of guidelines mirriring the levels laid out in the disciplinary actions. A level one infraction is the lowest level of offense, level three is the highest level of offense. Level three guidelines are not bound to any service and hold universal across the entire Media Center. See Failure to Comply.
+
+Different Services have diffrent guidlines. Apart from the community Discord, these guidlines are only laid out here. Please read them carefully.
+
+1. Level One Guidelines
+  a. Universal Guidelines
+  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/)
+  - Failure to report bugs, glitches, or errors.
+  b. Jellyfin Guidelines
+  c. Ombi Guidlines
+  d. Discord Guidelines
+   - No excessive use of explicit or vulgare language. Profanity is not prohibitted but excess use 
+   will result in a warning
+   - Not using channels for unintended purposes
+2. Level Two Guidelines
+  a. Universal Guidelines
+  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
+  - Public or private discussion of administrative action
+  - Failure to report knowledge of an offense against these guidelines
+  - Account or credidential sharing is prohibited. See Memberships
+  - Failure to comply with administrative requests
+  b. Jellyfin Guidelines
+  - Creating mutiple user sessions with malicious intent
+  -  
+  c. Ombi Guidlines
+  - Making excessive requests. Unlimited genuine requests can be made but it is best to notify BobDaGecko if you intend to submit more then 20 simultaneous requests.
+  d. Discord Guidelines
+   - Disruptive to conversatons in chats (spamming)
+   - Entering voice chats uninvited
+   - Discussion of controversial topics that may offend members. These include but are not limited to, political topics and current events.
+2. Level Three Guidelines
+ - Verbal, mental, sexual, or any other kind of abuse or bullying is strictly prohibited and will result in an immediate and permanat ban. The Cyberflix Media Center boasts a zero-tolerance policy when it comes to abuse. Little leniency is given in abuse cases.
+ - Failure to report abuse on the part of a witness will result in a suspension or termination
+ - Unauthorized access to the backend or internal server functions is strictly prohibited
+ - Complete failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
+ - Abuse of Cyberflix services.
+ - Any use of the Cyberflix Media Center for malicious intent
+
 
 ## Activity
 Please see the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
@@ -69,6 +106,33 @@ Applications are strictly required for any and all members of the Media Center. 
 Applications must be completed in full and all questions must be answered thoughtfully. A poor submission will require resubmittal of a new application. If an application if failed to be submitted by the end of an application window, they're application will be rejected.
 
 Application windows do not have a set schedule or have any specific length. They can be started and ended at anytime. Members may not refer prospective applicants to the application outside of an application window. Members also cannot ask BobDaGecko for an application to share or for appeals.
+
+Upon acceptance of an application, an invite link will be sent to the email address defined in the application. This membership is only valid for the single user who submitted the application. See Memberships.
+
+## Memberships
+As defined, a member is any user who has completed an accepted application and created an account. Members recieve full access to the entirety of the media center. The Cyberflix Media Center holds an open access policy of free and unrestricted access the Cyberflix libraries.
+
+Members recieve no heirarchical status as apart of the open access policy. Any donations to Cyberflix Media will not result in any benifits at this time due to this. BobDaGecko is the only admministrator and no member has any moderation permissions. 
+
+### Access policy
+Memberships are only granted to individual users who submitted an accepted application. Account sharing is strictly prohibited. Account access is activly logged and tracked to enforce this policy. This is to limit the load on the server and to balance the expierince for all users. Any member found to infringe on this policy will be referred for administrative action.
+
+Screen sharing is permitted and mutiple users may use a member account to watch content as long as a singular screen is used.
+
+### The Cyberflix Bug Testing Taskforce
+The Cyberflix Bug Testing Taskforce (CFBTTF) is the beta testing team for Cyberflix. Members of this team are required to be active members and may be called upon at anytime to help with testing new or exsisting functions of the Cyberflix Media Center.
+
+CFBTTF members hold no administrative authority over any members or users, however they are authorized to offer techical support to members who may need it.
+
+### Special Access Accounts
+Special Access Accounts are accounts that are used and created for mutiple administrative functions and for special use. Members have the ability to request special access accounts. These accounts are limited only to Jellyfin and are only temporary.
+
+Special Access Accounts can be requested on behalf of Members for the following reasons:
+ - To test out Media Center functions
+ - To give temporary access to a friend or family member
+ - For another authorized reason
+
+ Special Access Accounts have to be authorized by BobDaGecko. Special Access Accounts are not to be abused and abuse can result in admistrative action. Special Access Accounts can be created and destroyed for any reason at any time by the user or BobDaGecko.
 
 ## Failure to Comply
 If an member applicant does not accept these terms and conditions they're application will be rejected immediately. See Applications. Failure to abide by these Terms and Conditions or any rules defined elsewhere in the Media Center may resulte in consuquences.
