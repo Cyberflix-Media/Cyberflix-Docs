@@ -56,39 +56,38 @@ These guidelines are laid out hierarchically as some rules hold greater importan
 
 Different Services have diffrent guidlines. Apart from the community Discord, these guidlines are only laid out here. Please read them carefully.
 
-1. Level One Guidelines
-  a. Universal Guidelines
-  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/)
-  - Failure to report bugs, glitches, or errors.
-  b. Jellyfin Guidelines
-  c. Ombi Guidlines
-  d. Discord Guidelines
+1. Level One Guidelines  
+  a. Universal Guidelines  
+  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/)  
+  - Failure to report bugs, glitches, or errors.  
+  b. Jellyfin Guidelines  
+  c. Ombi Guidlines  
+  d. Discord Guidelines  
    - No excessive use of explicit or vulgare language. Profanity is not prohibitted but excess use 
-   will result in a warning
-   - Not using channels for unintended purposes
-2. Level Two Guidelines
-  a. Universal Guidelines
-  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
-  - Public or private discussion of administrative action
-  - Failure to report knowledge of an offense against these guidelines
-  - Account or credidential sharing is prohibited. See Memberships
-  - Failure to comply with administrative requests
-  b. Jellyfin Guidelines
-  - Creating mutiple user sessions with malicious intent
-  -  
-  c. Ombi Guidlines
-  - Making excessive requests. Unlimited genuine requests can be made but it is best to notify BobDaGecko if you intend to submit more then 20 simultaneous requests.
-  d. Discord Guidelines
-   - Disruptive to conversatons in chats (spamming)
-   - Entering voice chats uninvited
-   - Discussion of controversial topics that may offend members. These include but are not limited to, political topics and current events.
-2. Level Three Guidelines
- - Verbal, mental, sexual, or any other kind of abuse or bullying is strictly prohibited and will result in an immediate and permanat ban. The Cyberflix Media Center boasts a zero-tolerance policy when it comes to abuse. Little leniency is given in abuse cases.
- - Failure to report abuse on the part of a witness will result in a suspension or termination
- - Unauthorized access to the backend or internal server functions is strictly prohibited
- - Complete failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
- - Abuse of Cyberflix services.
- - Any use of the Cyberflix Media Center for malicious intent
+   will result in a warning  
+   - Not using channels for unintended purposes  
+2. Level Two Guidelines  
+  a. Universal Guidelines  
+  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).  
+  - Public or private discussion of administrative action  
+  - Failure to report knowledge of an offense against these guidelines  
+  - Account or credidential sharing is prohibited. See Memberships  
+  - Failure to comply with administrative requests  
+  b. Jellyfin Guidelines  
+  - Creating mutiple user sessions with malicious intent  
+  c. Ombi Guidlines  
+  - Making excessive requests. Unlimited genuine requests can be made but it is best to notify BobDaGecko if you intend to submit more then 20 simultaneous requests.  
+  d. Discord Guidelines  
+   - Disruptive to conversatons in chats (spamming)  
+   - Entering voice chats uninvited  
+   - Discussion of controversial topics that may offend members. These include but are not limited to, political topics and current events.  
+3. Level Three Guidelines  
+ - Verbal, mental, sexual, or any other kind of abuse or bullying is strictly prohibited and will result in an immediate and permanat ban. The Cyberflix Media Center boasts a zero-tolerance policy when it comes to abuse. Little leniency is given in abuse cases.  
+ - Failure to report abuse on the part of a witness will result in a suspension or termination  
+ - Unauthorized access to the backend or internal server functions is strictly prohibited  
+ - Complete failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).  
+ - Abuse of Cyberflix services  
+ - Any use of the Cyberflix Media Center for malicious intent  
 
 
 ## Activity
