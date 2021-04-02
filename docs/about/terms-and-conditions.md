@@ -57,15 +57,15 @@ These guidelines are laid out hierarchically as some rules hold greater importan
 Different Services have diffrent guidlines. Apart from the community Discord, these guidlines are only laid out here. Please read them carefully.
 
 1. Level One Guidelines  
-  a. Universal Guidelines  
-  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/)  
-  - Failure to report bugs, glitches, or errors.  
-  b. Jellyfin Guidelines  
-  c. Ombi Guidlines  
-  d. Discord Guidelines  
-   - No excessive use of explicit or vulgare language. Profanity is not prohibitted but excess use 
+  1. Universal Guidelines  
+    1. Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/)  
+    2. Failure to report bugs, glitches, or errors.  
+  2. Jellyfin Guidelines  
+  3. Ombi Guidlines  
+  4. Discord Guidelines  
+    1. No excessive use of explicit or vulgare language. Profanity is not prohibitted but excess use 
    will result in a warning  
-   - Not using channels for unintended purposes  
+    2. Not using channels for unintended purposes  
 2. Level Two Guidelines  
   a. Universal Guidelines  
   - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).  
