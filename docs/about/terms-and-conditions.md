@@ -23,15 +23,10 @@ Accordingly, those persons who choose to access the Site from other locations do
 The Cyberflix Media Center offers both public and private services to you. By accessing these services you agree to ensure:
 
 1. all registration information you submit will be true, accurate, current, and complete; 
-
 2. you will maintain the accuracy of such information and promptly update such registration information as necessary;
-
 3. you have the legal capacity and you agree to comply with these Terms and Conditions; 
-
 4. you are of at least 14 years of age;
-
 5. you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise; 
-
 6. you will not use the Site for any unauthorized purpose; 
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof). 
@@ -162,6 +157,10 @@ If you access the Site from the European Union, Asia, America, or any other regi
 
 Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 14 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.
 
+## MEMBER ACTIVITY AND USAGE REQUIREMENTS
+
+We strive to offer an active and healthy community for all members. Please review our [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/). By being a registered member, you agree to be bound by our Activity Agreement, which is incorporated into these Terms and Conditions.
+
 ## TERM AND TERMINATION
 
 These Terms and Conditions shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS AND CONDITIONS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS AND CONDITIONS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE [YOUR ACCOUNT AND] ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION. 
@@ -206,7 +205,7 @@ All financial contributions must be made via official means listed on the Site.
 
 If you become aware of fraudulent use of your card, or if it is lost or stolen, you must notify your card provider.
 
-Payment details submitted via PayPal or Cashapp will be transferred to the applicable payment provider and payment data will be collected and processed securely by them. You should make sure that you are aware of your applicable payment provider's terms and conditions, which are different from our own, to ensure that you are comfortable with how they will process your personal data before you make a donation. 
+Payment details submitted via PayPal or Cash App will be transferred to the applicable payment provider and payment data will be collected and processed securely by them. You should make sure that you are aware of your applicable payment provider's terms and conditions, which are different from our own, to ensure that you are comfortable with how they will process your personal data before you make a donation. 
 
 We won’t share your personal details with any other third party other than is set out in our Privacy Policy.
 
