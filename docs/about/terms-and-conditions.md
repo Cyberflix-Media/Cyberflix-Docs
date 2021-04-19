@@ -1,150 +1,220 @@
-# Terms and Conditions
-Welcome to the terms and conditions for the Cyberflix Media Center. In order to ensure a safe and secure community for all members the following terms and conditions have been laid out. These terms and conditions hold universally across the entire Cyberflix Media Center and all affiliate sites.
+# Cyberflix Media Center Terms and Conditions
+## Last updated April 18, 2021
+________________________________________
 
-## Disclaimer
-These terms and conditions are not legally binding and would not hold up in the court of law. These terms and conditions stand as guidelines for proper use by the members of the Cyberflix Media Center.
+## AGREEMENT TO TERMS
 
-These terms and conditions only apply to the members of the Cyberflix Media Center. Any guest or non-member otherwise is not bound by any provisions defined by these terms and conditions. However, any user may have any access to the Cyberflix Media Center terminated for any reason at any time.
+Welcome to the Terms and Conditions for the Cyberflix Media Center. These Terms and Conditions constitute a non-legally binding agreement made between any accessor of content owned by Cyberflix Media or it's registered members ("you") and Cyberflix Media and it's owner and operator BobDaGecko (“we,” “us” or “our”) concerning your access to and use of the Cyberflix Media Center and any of it's satellite sites. These Terms and Conditions apply to any media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site,” "Cyberflix," or "Cyberflix Media Center").
 
-## Definitions
-### Cyberflix Media Center
-The Cyberflix Media Center is a network stack of various [projects](https://docs.cyberflix.io/about/license/#included-projects) that are made up to organize, manage, and share digital media files to networked devices. A project is any computer program used for development, deployment, production, and maintenance within the Cyberflix Media Center.
-  
-!!! note "The Cyberflix Media Center can be referenced by the following aliases."
+You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms and Conditions. If you do not agree with all of these Terms and Conditions, then you are expressly prohibited from using the Site and you must discontinue use immediately.
 
-    "Cyberflix," "the Media Center," "the Center," "the Server"
+Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms and Conditions at any time and for any reason. 
 
-### Administration
-The entirety of the Cyberflix Media Center is managed and owned by BobDaGecko. BobDaGecko is the only administrator and has full access to all accounts, data, and administrative functions. BobDaGecko is the only user with administrative authority and must be respected as such. BobDaGecko holds the final authority on all issues.
+We will alert you about any changes by updating the “Last updated” date of these Terms and Conditions, and you waive any right to receive specific notice of each such change. 
 
-!!! note "BobDaGecko may be referenced by the following aliases."
+It is your responsibility to periodically review these Terms and Conditions to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms and Conditions by your continued use of the Site after the date such revised Terms and Conditions are posted. 
 
-    "Bob," "the Owner," "the Administrator," "the Admin," "Administration," "Management," "@BobDaGecko"
+The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. 
 
-### Frontend and Backend
-The Cyberflix Media Center is made up of two halves. The Frontend and the Backend. The Frontend is any site accessible by any member of the Server. The Backend is every site that makes up the backbone of the Server. The Backend makes up the administrative and media management parts of the Server. The Backend is inaccessible to any normal member of the Server.
+Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. 
 
-### Programs
-A program, application, server, or site represents any project in use by the Cyberflix Media Center. Each holds a different definition. A program is simply a normal computer program that is used for a variety of purposes within the Cyberflix Media Center. An application is any project that is either on the Backend or Frontend that has a user interface. A server is any program that hosts individual clients per user or session. A site is any program that is forwarded and hosted on the internet. Multiple projects may hold multiple definitions.
+## USERS AND MEMBERS
 
-### Network Stack
-The Network Stack is the compilation of all programs, applications, and sites used in production within the Cyberflix Media Center. The Network Stack in it's entirety is not accessible to members and is only used to represent the technical side of the Media Center. Please see [here](https://docs.cyberflix.io/about/license/) for licensing.
+The Cyberflix Media Center offers both public and private services to you. By accessing these services you agree to ensure:
 
-### Services
-A service or services are all functions offered to members by the Cyberflix Media Center. A service may represent access to a site or authorization to a function within a site. Services hold an administrative purpose and are used to enforce moderation. As such services may be invoked or revoked at any time for any reason. Below is the list of services offered by the Cyberflix Media Center.
+1. all registration information you submit will be true, accurate, current, and complete; 
 
- - Access and use of the Jellyfin Media Server
- - Access and use of the Ombi Content Management Server
- - Access and use of the Organizr Services Management Server
- - Access and use of the Cyberflix Media Libraries
- - Access and use of the Cyberflix Community Discord Server
- - Access and use of the Cyberflix Speedtest
- - Access and use of the Cyberflix Status Page
- - Access and use of the Cyberflix Documentation
- - Authorization to request content
- - Authorization to create or join SyncPlay sessions
- - General Membership to the Cyberflix Media Center
- - Power User status for requesting content
+2. you will maintain the accuracy of such information and promptly update such registration information as necessary;
 
-### Activity
-Activity is the measurement of active time spent using the Media Center. See Activity.
+3. you have the legal capacity and you agree to comply with these Terms and Conditions; 
 
-## Conduct
-The following guidelines lay out the most important rules for any user in or related to *any* of the Cyberflix Media Center services. These guidelines are stricly enforced and little leniancy is given especially to higher grade infractions.
+4. you are of at least 14 years of age;
 
-These guidelines are laid out hierarchically as some rules hold greater importance to others. There are three levels of guidelines mirriring the levels laid out in the disciplinary actions. A level one infraction is the lowest level of offense, level three is the highest level of offense. Level three guidelines are not bound to any service and hold universal across the entire Media Center. See Failure to Comply.
+5. you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise; 
 
-Different Services have diffrent guidlines. Apart from the community Discord, these guidlines are only laid out here. Please read them carefully.
+6. you will not use the Site for any unauthorized purpose; 
 
-1. Level One Guidelines  
-  1. Universal Guidelines  
-    1. Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/)  
-    2. Failure to report bugs, glitches, or errors.  
-  2. Jellyfin Guidelines  
-  3. Ombi Guidlines  
-  4. Discord Guidelines  
-    1. No excessive use of explicit or vulgare language. Profanity is not prohibitted but excess use 
-   will result in a warning  
-    2. Not using channels for unintended purposes  
-2. Level Two Guidelines  
-  a. Universal Guidelines  
-  - Failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).  
-  - Public or private discussion of administrative action  
-  - Failure to report knowledge of an offense against these guidelines  
-  - Account or credidential sharing is prohibited. See Memberships  
-  - Failure to comply with administrative requests  
-  b. Jellyfin Guidelines  
-  - Creating mutiple user sessions with malicious intent  
-  c. Ombi Guidlines  
-  - Making excessive requests. Unlimited genuine requests can be made but it is best to notify BobDaGecko if you intend to submit more then 20 simultaneous requests.  
-  d. Discord Guidelines  
-   - Disruptive to conversatons in chats (spamming)  
-   - Entering voice chats uninvited  
-   - Discussion of controversial topics that may offend members. These include but are not limited to, political topics and current events.  
-3. Level Three Guidelines  
- - Verbal, mental, sexual, or any other kind of abuse or bullying is strictly prohibited and will result in an immediate and permanat ban. The Cyberflix Media Center boasts a zero-tolerance policy when it comes to abuse. Little leniency is given in abuse cases.  
- - Failure to report abuse on the part of a witness will result in a suspension or termination  
- - Unauthorized access to the backend or internal server functions is strictly prohibited  
- - Complete failure to abide by the access policy. See the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).  
- - Abuse of Cyberflix services  
- - Any use of the Cyberflix Media Center for malicious intent  
+If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof). 
 
+## MEMBER REGISTRATION
 
-## Activity
-Please see the [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/).
+All Members are required to register with Cyberflix Media in order to access Member only services. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
 
-## Privacy
+Registration is done through an application made available only during application windows. These application windows are the only time you are able to apply and have your application accepted. Applications submitted late will be rejected.
 
-Please see the [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/).
+Members can refer users to the application only during an application window. Members may not refer users to the application outside the application window. Members also cannot ask us for an application to share or for appeals.
 
-## Applications
-To ensure the stability and best performance for the Cyberflix Media Center, there is a limit to how many concurrent members there can be. The current max amount of members is 30. Due to this limited space, the Media Center employs an application system for new members to join.
+A poor submission or invalid application will require resubmission of a new application. If an application if failed to be submitted by the end of an application window, they're application will be rejected.
 
-Applications are strictly required for any and all members of the Media Center. They must be approved by BobDaGecko.
+## PROHIBITED CONDUCT
 
-Applications must be completed in full and all questions must be answered thoughtfully. A poor submission will require resubmittal of a new application. If an application if failed to be submitted by the end of an application window, they're application will be rejected.
+You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us. 
 
-Application windows do not have a set schedule or have any specific length. They can be started and ended at anytime. Members may not refer prospective applicants to the application outside of an application window. Members also cannot ask BobDaGecko for an application to share or for appeals.
+As a user of the Site, you agree not to:
 
-Upon acceptance of an application, an invite link will be sent to the email address defined in the application. This membership is only valid for the single user who submitted the application. See Memberships.
+1.	systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+2.	make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+3.	use the Site to advertise or offer to sell goods and services.
+4.	circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
+5.	engage in unauthorized framing of or linking to the Site.
+6.	trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
+7.	make improper use of our support services or submit false reports of abuse or misconduct.
+8.	engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+9.	interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
+10.	attempt to impersonate another user or person or use the username of another user.
+11.	sell or otherwise transfer your profile.
+12.	use any information obtained from the Site in order to harass, abuse, or harm another person.
+13.	use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
+14.	attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
+15.	harass, annoy, intimidate, or threaten any of our staff or support team engaged in providing any portion of the Site to you.
+16.	delete the copyright or other proprietary rights notice from any Content.
+17.	upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
+18.	upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
+19.	except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
+20.	disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
+21.	use the Site in a manner inconsistent with any applicable laws or regulations.
+22.	fail to abide by any regulation or policies laid out outside these Terms and Conditions including but not limited to the Privacy Policy, Activity Agreement, and the Liscence Agreement.
 
-## Memberships
-As defined, a member is any user who has completed an accepted application and created an account. Members recieve full access to the entirety of the media center. The Cyberflix Media Center holds an open access policy of free and unrestricted access the Cyberflix libraries.
+## USER GENERATED CONTRIBUTIONS
 
-Members recieve no heirarchical status as apart of the open access policy. Any donations to Cyberflix Media will not result in any benifits at this time due to this. BobDaGecko is the only admministrator and no member has any moderation permissions. 
+The Cyberflix Media Center employs the use of third party software that may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). 
 
-### Access policy
-Memberships are only granted to individual users who submitted an accepted application. Account sharing is strictly prohibited. Account access is activly logged and tracked to enforce this policy. This is to limit the load on the server and to balance the expierince for all users. Any member found to infringe on this policy will be referred for administrative action.
+Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
-Screen sharing is permitted and mutiple users may use a member account to watch content as long as a singular screen is used.
+1.	your Contributions are not false, inaccurate, or misleading.
+2.	your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+3.	your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+4.	your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+5.	your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
+6.	your Contributions do not violate the privacy or publicity rights of any third party.
+7.	your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
+8.	your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
+9.	your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
+10.	your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms and Conditions, or any applicable law or regulation.
 
-### The Cyberflix Bug Testing Taskforce
-The Cyberflix Bug Testing Taskforce (CFBTTF) is the beta testing team for Cyberflix. Members of this team are required to be active members and may be called upon at anytime to help with testing new or exsisting functions of the Cyberflix Media Center.
+Any use of the Site in violation of the foregoing violates these Terms and Conditions and may result in, among other things, termination or suspension of your rights to use the Site. 
 
-CFBTTF members hold no administrative authority over any members or users, however they are authorized to offer techical support to members who may need it.
+## CONTRIBUTION LICENSE
 
-### Special Access Accounts
-Special Access Accounts are accounts that are used and created for mutiple administrative functions and for special use. Members have the ability to request special access accounts. These accounts are limited only to Jellyfin and are only temporary.
+By posting your Contributions to any part of the Site [or making Contributions accessible to the Site by linking your account from the Site to any of your social networking accounts], you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels. 
 
-Special Access Accounts can be requested on behalf of Members for the following reasons:
- - To test out Media Center functions
- - To give temporary access to a friend or family member
- - For another authorized reason
+This license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide. You waive all moral rights in your Contributions, and you warrant that moral rights have not otherwise been asserted in your Contributions. 
 
- Special Access Accounts have to be authorized by BobDaGecko. Special Access Accounts are not to be abused and abuse can result in admistrative action. Special Access Accounts can be created and destroyed for any reason at any time by the user or BobDaGecko.
+We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site. 
 
-## Failure to Comply
-If an member applicant does not accept these terms and conditions they're application will be rejected immediately. See Applications. Failure to abide by these Terms and Conditions or any rules defined elsewhere in the Media Center may resulte in consuquences.
+You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.  
 
-There are three stages to moderation on the Cyberflix Media Center. The three stages are warnings, suspensions, and account terminations. Each offense will result in the next stage after the second offense. A first offender will get an account suspension upon the third offense. The following lists the stages.
+We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Site; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions. 
 
- 1. Warnings   
-      a. The first warning may happen to most members, not a huge deal. The account will be warned but no restrictions will be applied.  
-      b. The second warning is situatational, if this is just a simple mistake a second warning will be treated the same as the first warning. These can also be voided depending on the situation. If this a repeat offense, the warning will be more severe and depending on the case, may result in account restrictions.  
-      c. Further warnings only apply if warnings are given to attend to mistakes or very minor offenses. Sympathy can be applied to warnings and this is only decided by BobDaGecko. Repeat offenders will recieve no sympathy and warning will total.
- 2. Suspensions  
-      a. After the second warning, if necessary, a member will recieve a one week suspension. Their account will be disabled and their access all Media Center services will be suspended. Appeals are not allowed to be submitted during a one week suspension. Failure to abide by this policy will result in another warning on the offenders account.  
-      b. Upon the conclusion of the first suspension, if again, after the second warning, an offence is commited, the offending account will recieve a suspension of one month. An appeal can be submitted.
- 3. Terminations  
-      a. After the second suspension, any further infraction will result in termination of the offending account. In this case, all account details and credidentials are deleted and all user history and data is removed. An appeal can be submitted after three months from the termination and the user must submit a new application. Accounts will not be remade upon the acceptance of an appeal.  
-      b. In extreme cases, the final action taken will be an IP ban. In this case a new rule will be in the webserver to reject requests from the offender's IP. The offender will no longer be able to access the Media Center in any way. This is permanant and any attempt to appeal or remake an account will be rejected. At this point the user is permanatly banned from the Media Center.
+## GUIDELINES FOR REVIEWS
+
+We may provide you areas on the Site to leave reviews or ratings. When posting a review, you must comply with the following criteria: 
+
+1. you should have firsthand experience with the person/entity being reviewed; 
+2. your reviews should not contain offensive profanity, or abusive, racist, offensive, or hate language; 
+3. your reviews should not contain discriminatory references based on religion, race, gender, national origin, age, marital status, sexual orientation, or disability; 
+4. you may not post any false or misleading statements; 
+5. you may not organize a campaign encouraging others to post reviews, whether positive or negative. 
+
+We may accept, reject, or remove reviews in our sole discretion. We have absolutely no obligation to screen reviews or to delete reviews, even if anyone considers reviews objectionable or inaccurate. Reviews are not endorsed by us, and do not necessarily represent our opinions or the views of any of our affiliates or partners. 
+
+We do not assume liability for any review or for any claims, liabilities, or losses resulting from any review. By posting a review, you hereby grant to us a perpetual, non-exclusive, worldwide, royalty-free, fully-paid, assignable, and sublicensable right and license to reproduce, modify, translate, transmit by any means, display, perform, and/or distribute all content relating to reviews.
+
+## SUBMISSIONS
+
+You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you. 
+
+You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions. 
+
+## USE OF THIRD-PARTY PROGRAMS AND WEBSITES
+
+The Cyberflix Media Center employs the use of a large network of various programs and websites. Programs forming the backbone of the Site do not collect any unauthorized information on any of our users and/or members. Programs used by the Cyberflix Media Center that we monitor can be found under [licensing](https://docs.cyberflix.io/about/license/).
+
+The Cyberflix Media Center may however contain (or you may be sent via the Site) links to other websites ("Third-Party Websites") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties ("Third-Party Content"). 
+
+Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for any Third-Party Websites accessed through the Site or any Third-Party Content posted on, available through, or installed from the Site, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content. 
+
+Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by us. If you decide to leave the Site and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk, and you should be aware these Terms and Conditions no longer govern. 
+
+You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Site or relating to any applications you use or install from the Site. Any purchases you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. 
+
+You agree and acknowledge that we do not endorse the products or services offered on Third-Party Websites and you shall hold us harmless from any harm caused by your purchase of such products or services. Additionally, you shall hold us harmless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites. 
+
+## SITE MANAGEMENT
+
+We reserve the right, but not the obligation, to: 
+
+(1) monitor the Site for violations of these Terms and Conditions; 
+
+(2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms and Conditions, including without limitation, reporting such user to law enforcement authorities; 
+
+(3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; 
+
+(4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; 
+
+(5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
+
+## PRIVACY
+
+We care about data privacy and security. Please review our [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in Germany. 
+
+If you access the Site from the European Union, Asia, America, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Germany, then through your continued use of the Site, you are transferring your data to Germany, and you expressly consent to have your data transferred to and processed in Germany. 
+
+Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 14 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.
+
+## TERM AND TERMINATION
+
+These Terms and Conditions shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS AND CONDITIONS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS AND CONDITIONS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE [YOUR ACCOUNT AND] ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION. 
+
+If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. 
+
+In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
+
+## MODIFICATIONS AND INTERRUPTIONS 
+
+We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. 
+
+We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site. 
+
+We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. 
+
+We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site. 
+
+Nothing in these Terms and Conditions will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
+
+## CORRECTIONS
+
+There may be information on the Site that contains typographical errors, inaccuracies, or omissions that may relate to the Site, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.
+
+## DISCLAIMER
+
+THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. 
+
+AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+
+## USER DATA
+
+We will maintain certain data that you transmit to the Site for the purpose of managing the Site, as well as data relating to your use of the Site. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Site. 
+
+You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+
+## DONATIONS AND FINANCIAL TRANSACTIONS
+
+The Cyberflix Media Center is not registered as a charity in either the United States or Germany and donations are accepted under the representation of BobDaGecko. If a donation has no purpose laid out by the donor, the funds will be attributed automatically towards the funding and maintenance of the operations of Cyberflix Media.
+
+All financial contributions must be made via official means listed on the Site.
+
+If you become aware of fraudulent use of your card, or if it is lost or stolen, you must notify your card provider.
+
+Payment details submitted via PayPal or Cashapp will be transferred to the applicable payment provider and payment data will be collected and processed securely by them. You should make sure that you are aware of your applicable payment provider's terms and conditions, which are different from our own, to ensure that you are comfortable with how they will process your personal data before you make a donation. 
+
+We won’t share your personal details with any other third party other than is set out in our Privacy Policy.
+
+If you make an error in your donation please contact us by email at administration@cyberflix.io
+
+## CONTACT US 
+
+In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
+
+Cyberflix Media  
+administration@cyberflix.io
