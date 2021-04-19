@@ -1,4 +1,6 @@
 # Privacy Policy
+## Last updated April 18, 2021
+________________________________________
 Welcome to the privacy policy for the Cyberflix Media Center. In order to ensure a safe experience across the Media Center, the following privacy policy has been laid out.
 
 ## Disclaimer
