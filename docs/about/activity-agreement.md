@@ -30,7 +30,7 @@ The easiest way to maintain activity is to participate in the Discord. It is imp
 ### Jellyfin Requirements
 This table lists the requirments to maintain activity via Jellyfin. It is based of content consumed per month.
 
-|Standing|TV|Movie|  
+|Standing|TV|Movies|  
 |-|-|-|
 |Excellent|3+ Seasons|11+ Movies|
 |Great|2 Seasons|10 Movies|
