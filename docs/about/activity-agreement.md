@@ -40,7 +40,7 @@ This table lists the requirments to maintain Activity via Jellyfin. It is based 
 |Bad|1 Episode|< 1 Movie|
 
 ### Discord Requirements
-The easiest way to maintain Activity is to participate in the Discord. It is impeccable we receive feedback, insight, and involvement from Members. Cyberflix offers it's services for free and without any input from Members the direction and health of our service may deteriorate. Participating in Discord requires involvement in polls, community events such as watch parties, and discussion in chat channels.
+The easiest way to maintain Activity is to participate in the Discord. It is impeccable we receive feedback, insight, and involvement from Members. Cyberflix offers it's services for free and without any input from Members the quality and health of our service may deteriorate. Participating in Discord requires involvement in polls, community events such as watch parties, and discussion in chat channels.
 
 ### Ombi Requirements
 It is not expected that Members request content every month, however requesting new content will put your account in good standing. Growing the library is always something we strive for and we can use all the help we can get. Members can request anything they wish but it has to be approved by BobDaGecko, though it almost always is.
