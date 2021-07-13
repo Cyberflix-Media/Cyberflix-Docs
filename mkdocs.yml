@@ -26,6 +26,9 @@ nav:
     - Ombi: ombi/temp.md
     - Organizr: organizr/temp.md
     - Discord: discord/temp.md
+    - CBTTF: cbttf/cbttf.md
+        - Operations: cbttf/operations.md
+        - Guidelines: cbttf/guidelines.md
     - About:
         - Terms and Conditions: about/terms-and-conditions.md
         - Privacy Policy: about/privacy-policy.md
