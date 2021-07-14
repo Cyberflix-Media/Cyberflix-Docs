@@ -27,6 +27,7 @@ nav:
     - Organizr: organizr/temp.md
     - Discord: discord/temp.md
     - CBTTF:
+        - About: cbttf/cbttf.md
         - Operations: cbttf/operations.md
         - Guidelines: cbttf/guidelines.md
     - About:
