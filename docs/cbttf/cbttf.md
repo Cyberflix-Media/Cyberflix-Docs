@@ -3,9 +3,7 @@
 # Welcome
 Welcome to the documentation for the Cyberflix Bug Testing Taskforce. The Cyberflix Bug Testing Taskforce or CBTTF for short is a group of Cyberflix Members who work directly with BobDaGecko to test and assist in the operations of Cyberflix. A Taskforce Member's primary job is to test the Media Center for bugs and other issues, and report them to BobDaGecko to be addressed. Their work is key to the success and operation of Cyberflix. They are very active and also assist in helping Members with questions and issues. They hold no administrative privileges, like any Cyberflix Member, they can report misconduct in accordance with the Terms of Service. They are to be respected like any Cyberflix Member and should be shown gratitude for their work.
 
-??? question "FAQ"
-
-    CBTTF FAQ
+!!! question "CBTTF FAQ"
 
     **Q: What else does the CBTTF do?**
 
