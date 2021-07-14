@@ -1,7 +1,7 @@
 ![](https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-CBTTF-Light.png)
 
 # Welcome
-Welcome to the documentation for the Cyberflix Bug Testing Taskforce. The Cyberflix Bug Testing Taskforce or CBTTF for short is a group of Cyberflix Members who work directly with BobDaGecko to test and assist in the operations of Cyberflix. A Taskforce Member's primary job is to test the Media Center for bugs and other issues, and report them to BobDaGecko to be addressed. Their work is key to the success and operation of Cyberflix. They are very active and also assist in helping Members with questions and issues. They hold no administrative privileges, like any Cyberflix Member, they can report misconduct in accordance with the Terms of Service. They are to be respected like any Cyberflix Member and should be shown gratitude for their work.
+Welcome to the documentation for the Cyberflix Bug Testing Taskforce. The Cyberflix Bug Testing Taskforce, or CBTTF for short, is a group of Cyberflix Members who work directly with BobDaGecko to test, and assist in the operations of Cyberflix. A Taskforce Member's primary job is to test the Media Center for bugs and other issues, and report them to BobDaGecko to be addressed. Their work is key to the success and operation of Cyberflix. They are very active and also assist in helping Members with questions and issues. They hold no administrative privileges, however, like any Cyberflix Member, they can report misconduct in accordance with the [Terms and Conditions](https://docs.cyberflix.io/about/terms-and-conditions). They are to be respected like any Cyberflix Member and should be shown gratitude for their work.
 
 !!! question "CBTTF FAQ"
 
@@ -11,7 +11,7 @@ Welcome to the documentation for the Cyberflix Bug Testing Taskforce. The Cyberf
 
     **Q: Can I join?**
 
-    A: In short, no, Taskforce Members are permanent and membership is capped at eight. However, in the rare chance that a member leaves or is dismissed an Application will be released in order to find a new member. You can view the application [here](https://forms.gle/EJRJnUKx4i5xd8H56). The password will be posted here in case of an opening.
+    A: In short, no, Taskforce Members are permanent and membership is capped at eight. However, in the rare chance that a member leaves, or is dismissed, an Application will be released in order to find a new member. You can view the application [here](https://forms.gle/EJRJnUKx4i5xd8H56). The password will be posted here in case of an opening.
 
     **Q: Do CBTTF Members have privileges regular members don't?**
 
