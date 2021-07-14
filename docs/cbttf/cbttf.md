@@ -1,2 +1,2 @@
 # The Cyberflix Bug Testing Taskforce
-![](img/titles/cbttf-light.png)
+![test](img/titles/cbttf-light.png)
