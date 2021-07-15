@@ -24,7 +24,7 @@ Taskforce Members take part in heavy testing. Upon approval of a Taskforce Membe
  - Testing Syncplay. BobDaGecko and/or the Taskforce Director will create a party to test Syncplay. In these tests, Taskforce Members will watch content with the intent of testing Syncplay. The Taskforce Director will report to BobDaGecko on the results of this session incase of BobDaGecko's absence.
  - Various other duties will be assigned by BobDaGecko as needed.
 
- ### Ombi
+### Ombi
 
 !!! note Note
 
