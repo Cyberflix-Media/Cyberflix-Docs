@@ -1,8 +1,8 @@
 # Cyberflix Media Center Terms and Conditions
-## Last updated April 18, 2021
+## Last updated July 16, 2021
 ________________________________________
 
-## AGREEMENT TO TERMS
+## 1. AGREEMENT TO TERMS
 
 Welcome to the Terms and Conditions for the Cyberflix Media Center. These Terms and Conditions constitute a non-legally binding agreement made between any accessor of content owned by Cyberflix Media or it's registered members ("you") and Cyberflix Media and it's owner and operator BobDaGecko (“we,” “us” or “our”) concerning your access to and use of the Cyberflix Media Center and any of it's satellite sites. These Terms and Conditions apply to any media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site,” "Cyberflix," or "Cyberflix Media Center").
 
@@ -18,20 +18,20 @@ The information provided on the Site is not intended for distribution to or use 
 
 Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. 
 
-## USERS AND MEMBERS
+## 2. USERS AND MEMBERS
 
 The Cyberflix Media Center offers both public and private services to you. By accessing these services you agree to ensure:
 
 1. all registration information you submit will be true, accurate, current, and complete; 
 2. you will maintain the accuracy of such information and promptly update such registration information as necessary;
 3. you have the legal capacity and you agree to comply with these Terms and Conditions; 
-4. you are of at least 14 years of age;
+4. you are of at least 13 years of age;
 5. you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise; 
 6. you will not use the Site for any unauthorized purpose; 
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof). 
 
-## MEMBER REGISTRATION
+## 3. MEMBER REGISTRATION
 
 All Members are required to register with Cyberflix Media in order to access Member only services. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
 
@@ -41,7 +41,7 @@ Members can refer users to the application only during an application window. Me
 
 A poor submission or invalid application will require resubmission of a new application. If an application if failed to be submitted by the end of an application window, they're application will be rejected.
 
-## PROHIBITED CONDUCT
+## 4. PROHIBITED CONDUCT
 
 You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us. 
 
@@ -70,7 +70,7 @@ As a user of the Site, you agree not to:
 21.	use the Site in a manner inconsistent with any applicable laws or regulations.
 22.	fail to abide by any regulation or policies laid out outside these Terms and Conditions including but not limited to the Privacy Policy, Activity Agreement, and the Liscence Agreement.
 
-## USER GENERATED CONTRIBUTIONS
+## 5. USER GENERATED CONTRIBUTIONS
 
 The Cyberflix Media Center employs the use of third party software that may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). 
 
@@ -89,7 +89,7 @@ Contributions may be viewable by other users of the Site and through third-party
 
 Any use of the Site in violation of the foregoing violates these Terms and Conditions and may result in, among other things, termination or suspension of your rights to use the Site. 
 
-## CONTRIBUTION LICENSE
+## 6. CONTRIBUTION LICENSE
 
 By posting your Contributions to any part of the Site [or making Contributions accessible to the Site by linking your account from the Site to any of your social networking accounts], you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels. 
 
@@ -101,7 +101,7 @@ You are solely responsible for your Contributions to the Site and you expressly 
 
 We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Site; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions. 
 
-## GUIDELINES FOR REVIEWS
+## 7. GUIDELINES FOR REVIEWS
 
 We may provide you areas on the Site to leave reviews or ratings. When posting a review, you must comply with the following criteria: 
 
@@ -115,13 +115,13 @@ We may accept, reject, or remove reviews in our sole discretion. We have absolut
 
 We do not assume liability for any review or for any claims, liabilities, or losses resulting from any review. By posting a review, you hereby grant to us a perpetual, non-exclusive, worldwide, royalty-free, fully-paid, assignable, and sublicensable right and license to reproduce, modify, translate, transmit by any means, display, perform, and/or distribute all content relating to reviews.
 
-## SUBMISSIONS
+## 8. SUBMISSIONS
 
 You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you. 
 
 You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions. 
 
-## USE OF THIRD-PARTY PROGRAMS AND WEBSITES
+## 9. USE OF THIRD-PARTY PROGRAMS AND WEBSITES
 
 The Cyberflix Media Center employs the use of a large network of various programs and websites. Programs forming the backbone of the Site do not collect any unauthorized information on any of our users and/or members. Programs used by the Cyberflix Media Center that we monitor can be found under [licensing](https://docs.cyberflix.io/about/license/).
 
@@ -135,7 +135,7 @@ You should review the applicable terms and policies, including privacy and data 
 
 You agree and acknowledge that we do not endorse the products or services offered on Third-Party Websites and you shall hold us harmless from any harm caused by your purchase of such products or services. Additionally, you shall hold us harmless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites. 
 
-## SITE MANAGEMENT
+## 10. SITE MANAGEMENT
 
 We reserve the right, but not the obligation, to: 
 
@@ -145,7 +145,7 @@ We reserve the right, but not the obligation, to:
 4. in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; 
 5. otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
 
-## PRIVACY
+## 11. PRIVACY
 
 We care about data privacy and security. Please review our [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in Germany. 
 
@@ -153,11 +153,11 @@ If you access the Site from the European Union, Asia, America, or any other regi
 
 Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 14 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.
 
-## MEMBER ACTIVITY AND USAGE REQUIREMENTS
+## 12. MEMBER ACTIVITY AND USAGE REQUIREMENTS
 
 We strive to offer an active and healthy community for all members. Please review our [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/). By being a registered member, you agree to be bound by our Activity Agreement, which is incorporated into these Terms and Conditions.
 
-## TERM AND TERMINATION
+## 13. TERM AND TERMINATION
 
 These Terms and Conditions shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS AND CONDITIONS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS AND CONDITIONS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE [YOUR ACCOUNT AND] ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION. 
 
@@ -165,7 +165,7 @@ If we terminate or suspend your account for any reason, you are prohibited from 
 
 In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
 
-## MODIFICATIONS AND INTERRUPTIONS 
+## 14. MODIFICATIONS AND INTERRUPTIONS 
 
 We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. 
 
@@ -177,23 +177,23 @@ We reserve the right to change, revise, update, suspend, discontinue, or otherwi
 
 Nothing in these Terms and Conditions will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
 
-## CORRECTIONS
+## 16. CORRECTIONS
 
 There may be information on the Site that contains typographical errors, inaccuracies, or omissions that may relate to the Site, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.
 
-## DISCLAIMER
+## 17. DISCLAIMER
 
 THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. 
 
 AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
 
-## USER DATA
+## 18. USER DATA
 
 We will maintain certain data that you transmit to the Site for the purpose of managing the Site, as well as data relating to your use of the Site. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Site. 
 
 You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
 
-## DONATIONS AND FINANCIAL TRANSACTIONS
+## 19. DONATIONS AND FINANCIAL TRANSACTIONS
 
 The Cyberflix Media Center is not registered as a charity in either the United States or Germany and donations are accepted under the representation of BobDaGecko. If a donation has no purpose laid out by the donor, the funds will be attributed automatically towards the funding and maintenance of the operations of Cyberflix Media.
 
@@ -207,7 +207,7 @@ We won’t share your personal details with any other third party other than is 
 
 If you make an error in your donation please contact us by email at administration@cyberflix.io
 
-## CONTACT US 
+## 20. CONTACT US 
 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
 

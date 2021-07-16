@@ -1,5 +1,5 @@
 # Cyberflix Bug Testing Taskforce Operations Reference
-!!! note Note
+!!! note Disclaimer
 
     Intended for Cyberflix Taskforce Members
     This is a reference manual, questions should asked via Discord Channels
