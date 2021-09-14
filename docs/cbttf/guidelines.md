@@ -16,7 +16,7 @@ In order to ensure all Taskforce Members understand what is expected of them the
 
 !!! note Note
 
-    These are a list that are recommended for review, please note that the entirety of the Terms and Conditions are applicable to all Members and the Terms and Conditions should be reviewed regularly in their entirety.
+    Here is a list of Sections of the Terms and Conditions that are recommended for review, please note that the entirety of the Terms and Conditions are applicable to all Members and the Terms and Conditions should be reviewed regularly in their entirety.
 
  - Section 1 - [AGREEMENT TO TERMS](https://docs.cyberflix.io/about/terms-and-conditions/#agreement-to-terms)
  - Section 2 - [USERS AND MEMBERS](https://docs.cyberflix.io/about/terms-and-conditions/#users-and-members)
