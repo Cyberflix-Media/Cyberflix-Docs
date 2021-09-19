@@ -26,3 +26,5 @@ In order to ensure all Taskforce Members understand what is expected of them the
  - Section 8 - [SUBMISSIONS](https://docs.cyberflix.io/about/terms-and-conditions/#submissions)
  - Section 12 - [MEMBER ACTIVITY AND USAGE REQUIREMENTS](https://docs.cyberflix.io/about/terms-and-conditions/#member-activity-and-usage-requirements)
  - Section 13 - [TERM AND TERMINATION](https://docs.cyberflix.io/about/terms-and-conditions/#term-and-termination)
+
+## 
