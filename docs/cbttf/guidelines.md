@@ -50,4 +50,4 @@ As the chief testing operation for the Cyberflix Media Center, a high level of a
 
 
 ### Meetings
-Meetings as described in [Operations](https://docs.cyberflix.io/cbttf/operations/), have required attendance. They are the most direct and important form of communication between the Cyberflix Bug Testing Taskforce Members. If a member is not available for a scheduled meeting, they must contact either Cyberflix Media Staff or the Taskforce Director ahead of time. If a member fails to attend a meeting without notifying either Cyberflix Media Staff or the Taskforce Director, they risk being removed from the Taskforce.
+Meetings as described in [Operations](https://docs.cyberflix.io/cbttf/operations/#meetings), have required attendance. They are the most direct and important form of communication between the Cyberflix Bug Testing Taskforce Members. If a member is not available for a scheduled meeting, they must contact either Cyberflix Media Staff or the Taskforce Director ahead of time. If a member fails to attend a meeting without notifying either Cyberflix Media Staff or the Taskforce Director, they risk being removed from the Taskforce.
