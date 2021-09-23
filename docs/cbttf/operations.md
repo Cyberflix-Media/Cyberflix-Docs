@@ -61,11 +61,11 @@ The third part is the Authorization ID (denoted as Auth ID) is the authenticatio
 
     Each letter in an Authorization ID means a separate access level. Below denotes what each letter means: 
 
-    J: Jellyfin
-    Om: Ombi
-    Or: Organizr
-    W: Wiki/Documentation
-    D: Discord
+    J: Jellyfin  
+    Om: Ombi  
+    Or: Organizr  
+    W: Wiki/Documentation  
+    D: Discord  
 
     Authorization IDs always follow the order as listed.
 
