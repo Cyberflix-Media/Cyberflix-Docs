@@ -68,7 +68,7 @@ As a user of the Site, you agree not to:
 19.	except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
 20.	disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
 21.	use the Site in a manner inconsistent with any applicable laws or regulations.
-22.	fail to abide by any regulation or policies laid out outside these Terms and Conditions including but not limited to the Privacy Policy, Activity Agreement, and the Liscence Agreement.
+22.	fail to abide by any regulation or policies laid out outside these Terms and Conditions including but not limited to the Privacy Policy, Activity Agreement, and the License Agreement.
 
 ## 5. USER GENERATED CONTRIBUTIONS
 

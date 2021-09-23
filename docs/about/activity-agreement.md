@@ -6,7 +6,7 @@ Welcome to the Activity Agreement for the Cyberflix Media Center. In order to en
 Failure to abide by this agreement will result in administrative action as described in the Terms and Conditions.
 
 ## Activity Defined
-Activity is a metric used by the Cyberflix Media Center to measure the usage of Cyberflix services and community involvement onf the part of Members. Metrics that contribute to Activity do not contain any information that can be used to compromise the security or privacy of Members. See our [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/).
+Activity is a metric used by the Cyberflix Media Center to measure the usage of Cyberflix services and community involvement on the part of Members. Metrics that contribute to Activity do not contain any information that can be used to compromise the security or privacy of Members. See our [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/).
 
 Activity is measured by monitoring Member usage in the following services:
 
@@ -28,7 +28,7 @@ Activity can be maintained by doing the following:
 The easiest way to maintain Activity is to participate in the Discord. It is impeccable we receive feedback, insight, and involvement from Members. Cyberflix offers it's services for free and without any input from Members the direction and health of our service may deteriorate. Participating in Discord requires involvement in polls, community events such as watch parties, and discussion in chat channels.
 
 ### Jellyfin Requirements
-This table lists the requirments to maintain Activity via Jellyfin. It is based of content consumed per month.
+This table lists the requirements to maintain Activity via Jellyfin. It is based of content consumed per month.
 
 |Standing|TV|Movies|  
 |-|-|-|
@@ -46,7 +46,7 @@ The easiest way to maintain Activity is to participate in the Discord. It is imp
 It is not expected that Members request content every month, however requesting new content will put your account in good standing. Growing the library is always something we strive for and we can use all the help we can get. Members can request anything they wish but it has to be approved by BobDaGecko, though it almost always is.
 
 ## Account Parking
-If a Member knows they will be unable to meet the minimum requirments for Activity, they can request that their account be parked. This means their login is disabled but their Activity will not be monitored.
+If a Member knows they will be unable to meet the minimum requirements for Activity, they can request that their account be parked. This means their login is disabled but their Activity will not be monitored.
 
 At this time requests for account parking can be sent to BobDaGecko via Discord or at support@cyberflix.io.
 

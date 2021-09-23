@@ -1,7 +1,7 @@
 # Cyberflix Bug Testing Taskforce Operations Reference
 !!! note "Disclaimer"
 
-    Intended for Cyberflix Taskforce Members
+    Intended for Cyberflix Bug Testing Taskforce Members
     This is a reference manual, questions should asked via Discord Channels
 
 ## Purpose
@@ -41,3 +41,36 @@ Taskforce Members take part in heavy testing. Upon approval of a Taskforce Membe
  - Reporting misconduct. As any Cyberflix Member should do, Taskforce Members must report misconduct immediately and without hesitation. Failure to do so will result in dismissal and termination of Membership if appropriate.
 
 BobDaGecko may request testing for various other services. Taskforce Members must be on call for this and failure for the entire Taskforce to turn down a request may result in dismissal of current members. The Taskforce is meant for testing and it is imperative it lives up to this purpose. For further guidelines to Taskforce conduct, please see [Guidelines](https://docs.cyberflix.io/cbttf/guidelines).
+
+## Support
+The operations of the Cyberflix Media Center can be complicated for some Members and they may require help and support in using Cyberflix Services. Due to the nature of the Cyberflix Bug Testing Taskforce, Taskforce Members are obligated to help regular Cyberflix Members in using the Cyberflix Media Center. Taskforce members are expected to have a good understanding of how many of the frontend operations work and know how to help members. There are support channels within the Discord server that allow Members to ask questions and request support. Cyberflix Media Staff is the primary form of help for Members but Taskforce Members are also obligated to help. In the case of a Taskforce Member not knowing an answer to a question or being unable to help further, the Taskforce Member should forward the user to Cyberflix Media Staff by mentioning the role in Discord. Taskforce Members can also contact Cyberflix Media Staff to resolve the issue. Please take note of the support guidelines [here](https://docs.cyberflix.io/cbttf/guidelines/).
+
+## Meetings
+Cyberflix Bug Testing Taskforce meetings are all member meetings where both Cyberflix Media Staff and the Taskforce Director go over various things discussed earlier with each other, with Taskforce Members. Ideally these shouldn’t happen often but when they do, Taskforce Members are required to attend (see [Guidelines](https://docs.cyberflix.io/cbttf/guidelines/). Meetings are a good time to directly communicate with Cyberflix Media Staff and the Taskforce Director. Meetings usually start with Cyberflix Media Staff and the Taskforce Director going over items that have been discussed previously. Following this is when Taskforce Members can ask questions and receive support. Any more complicated items can be discussed after the meeting. Meetings are conducted via Discord voice chat and by text. Taskforce Members can choose to communicate either way but all Taskforce Members must be connected to voice chat. They can be muted but not deafened.
+
+## ID Badges
+The Cyberflix Bug Testing Taskforce members are identifiable by their ID badge. These ID Badges are given to each Taskforce Member and verify their membership. Each ID Badge is unique to each Taskforce Member. There are five parts to each badge. 
+
+The first is the Taskforce Members username, this is taken from their Discord account username. If they wish to be identified in a different way, they can contact Cyberflix Media Staff.
+
+The second part is the ID, this is how Taskforce Members are identified and it is also the username Taskforce Members use when signing into Cyberflix services. The numbers are taken from their Discord account and cannot be changed. This way every member is unique to another member.
+
+The third part is the Authorization ID (denoted as Auth ID) is the authentication level Taskforce Members are at. Different Taskforce Members may have different Authorization IDs but over time they may change over time. The Authentication ID is the only part of an ID Badge that actively changes. Below is a guide to understanding Authorization IDs.
+
+??? tip "Auth ID Guide"
+
+    Each letter in an Authorization ID means a separate access level. Below denotes what each letter means: 
+
+    J: Jellyfin
+    Om: Ombi
+    Or: Organizr
+    W: Wiki/Documentation
+    D: Discord
+
+    Authorization IDs always follow the order as listed.
+
+    Following this an Authorization ID of JOmW would have access to Jellyfin, Ombi, and the Cyberflix Documentation. OrD would have access to Organizr and Discord. A full access Taskforce Member would have JOmOrWD.
+
+The fourth part of an ID Badge is the join date. This is pretty self explanatory but it denotes the date the user became a Taskforce Member. This is important as it signifies seniority among members.
+
+The final part is a hash code that is only used by Cyberflix Media Staff. This is found on the very bottom of the badge and it is the most unique part of each badge. Cyberflix Members and Taskforce Members may ignore this.
