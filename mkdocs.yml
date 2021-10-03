@@ -26,10 +26,10 @@ nav:
     - Ombi: ombi/temp.md
     - Organizr: organizr/temp.md
     - Discord: discord/temp.md
-    - CBTTF:
-        - About: cbttf/cbttf.md
-        - Operations: cbttf/operations.md
-        - Guidelines: cbttf/guidelines.md
+    - QCA:
+        - About: qca/about.md
+        - Operations: qca/operations.md
+        - Guidelines: qca/guidelines.md
     - About:
         - Terms and Conditions: about/terms-and-conditions.md
         - Privacy Policy: about/privacy-policy.md
