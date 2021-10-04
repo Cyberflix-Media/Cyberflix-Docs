@@ -32,20 +32,20 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 ??? tip "Quick Access Links"
     Below is a list of links to different parts of the Cyberflix Media Center. Keep in mind that some of these links lead to parts only accessible to Cyberflix Members but feel free to explore all links if you wish.
 
-    :cflogo: Main site: https://www.cyberflix.io/ (Short Link: https://cyfx.io/)
-    Jellyfin: https://www.cyberflix.io/jellyfin/ (Short Link: https://cyfx.io/jelly)
-    Ombi: https://www.cyberflix.io/ombi/ (Short Link: https://cyfx.io/ombi)
-    Organizr: https://www.cyberflix.io/organizr/ (Short Link: https://cyfx.io/org)
-    Discord Invite: https://discord.gg/gdt4WAq (Short Link: https://cyfx.io/disc)
-    Donate: https://www.cyberflix.io/pages/donate.html (Short Link: https://cyfx.io/donr)
+    Main site: https://www.cyberflix.io/ (Short Link: https://cyfx.io/)  
+    Jellyfin: https://www.cyberflix.io/jellyfin/ (Short Link: https://cyfx.io/jelly)  
+    Ombi: https://www.cyberflix.io/ombi/ (Short Link: https://cyfx.io/ombi)  
+    Organizr: https://www.cyberflix.io/organizr/ (Short Link: https://cyfx.io/org)  
+    Discord Invite: https://discord.gg/gdt4WAq (Short Link: https://cyfx.io/disc)  
+    Donate: https://www.cyberflix.io/pages/donate.html (Short Link: https://cyfx.io/donr)  
 
-    Server Status: https://status.cyberflix.io/ (Short Link: https://cyfx.io/stats)
-    speed: Speedtest: https://speedtest.cyberflix.io/ (Short Link: https://cyfx.io/speed)
-    Documentation: https://docs.cyberflix.io/ (Short Link: https://cyfx.io/docs)
+    Server Status: https://status.cyberflix.io/ (Short Link: https://cyfx.io/stats)  
+    speed: Speedtest: https://speedtest.cyberflix.io/ (Short Link: https://cyfx.io/speed)  
+    Documentation: https://docs.cyberflix.io/ (Short Link: https://cyfx.io/docs)  
 
-    Terms of Service: https://docs.cyberflix.io/about/terms-and-conditions/ (Short Link: https://cyfx.io/terco)
-    Privacy Policy: https://docs.cyberflix.io/about/privacy-policy/ (Short Link: https://cyfx.io/priv)
-    Activity Agreement: https://docs.cyberflix.io/about/activity-agreement/ (Short Link: https://cyfx.io/activ)
+    Terms of Service: https://docs.cyberflix.io/about/terms-and-conditions/ (Short Link: https://cyfx.io/terco)  
+    Privacy Policy: https://docs.cyberflix.io/about/privacy-policy/ (Short Link: https://cyfx.io/priv)  
+    Activity Agreement: https://docs.cyberflix.io/about/activity-agreement/ (Short Link: https://cyfx.io/activ)  
 
-    Movie Library: https://trakt.tv/users/cyberflix-media-center/collection/movies/title/ (Short Link: https://cyfx.io/movlib)
-    TV Show/Anime Library: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/ (Short Link: https://cyfx.io/tvlib)
+    Movie Library: https://trakt.tv/users/cyberflix-media-center/collection/movies/title/ (Short Link: https://cyfx.io/movlib)  
+    TV Show/Anime Library: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/ (Short Link: https://cyfx.io/tvlib)  
