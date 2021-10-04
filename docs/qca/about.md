@@ -13,7 +13,7 @@ Welcome to the documentation for the Cyberflix Quality Control and Assurance Tea
 
     A: In short, no, QCA Testers are permanent and membership is capped at eight. However, in the rare chance that a member leaves, or is dismissed, an Application will be released in order to find a new tester. You can view the application [here](https://cyfx.io/qcapp). The password will be posted here in case of an opening.
 
-    **Q: Do CBTTF Members have privileges regular members don't?**
+    **Q: Do QCA Testers have privileges regular members don't?**
 
     A: In some cases yes. They are meant to test things. This means new unreleased features have access to them given to QCA Testers for testing. They have access to all libraries and have special permission in some applications. There are also private channels within the Discord for management purposes. Any features that are either behind a paywall or have limited access to will be test but access will be restricted upon release.
 
