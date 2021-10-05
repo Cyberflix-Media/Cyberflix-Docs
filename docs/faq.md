@@ -40,7 +40,7 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 ??? tip "Quick Access Links"
     Below is a list of links to different parts of the Cyberflix Media Center. Keep in mind that some of these links lead to parts only accessible to Cyberflix Members but feel free to explore all links if you wish.
 
-    Main site: https://www.cyberflix.io/ (Short Link: https://cyfx.io/)  
+    :cflogo: Main site: https://www.cyberflix.io/ (Short Link: https://cyfx.io/)  
     Jellyfin: https://www.cyberflix.io/jellyfin/ (Short Link: https://cyfx.io/jelly)  
     Ombi: https://www.cyberflix.io/ombi/ (Short Link: https://cyfx.io/ombi)  
     Organizr: https://www.cyberflix.io/organizr/ (Short Link: https://cyfx.io/org)  
