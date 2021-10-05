@@ -16,6 +16,7 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.expand
+  custom_dir: overrides
 
 copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
 
