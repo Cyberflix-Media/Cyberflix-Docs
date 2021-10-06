@@ -37,7 +37,7 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 
     We don’t often ask for donations despite the fact that we probably should. Server costs are high but we try to promote free and full access so we don’t offer any real incentive to donate. Donations, however, do ensure the longevity of the Cyberflix Media Center and ensure the free access we strive to provide. If you wish to donate, you can visit [here](https://www.cyberflix.io/pages/donate.html).
 
-## :tip: Quick Access Links
+## :fire: Quick Access Links
 Below is a list of links to different parts of the Cyberflix Media Center. Keep in mind that some of these links lead to parts only accessible to Cyberflix Members but feel free to explore all links if you wish.
 
 :cyberflix-logo: Main site: https://www.cyberflix.io/ (Short Link: https://cyfx.io/)  
