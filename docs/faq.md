@@ -37,23 +37,23 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 
     We don’t often ask for donations despite the fact that we probably should. Server costs are high but we try to promote free and full access so we don’t offer any real incentive to donate. Donations, however, do ensure the longevity of the Cyberflix Media Center and ensure the free access we strive to provide. If you wish to donate, you can visit [here](https://www.cyberflix.io/pages/donate.html).
 
-??? tip "Quick Access Links"
-    Below is a list of links to different parts of the Cyberflix Media Center. Keep in mind that some of these links lead to parts only accessible to Cyberflix Members but feel free to explore all links if you wish.
+## :tip: Quick Access Links
+Below is a list of links to different parts of the Cyberflix Media Center. Keep in mind that some of these links lead to parts only accessible to Cyberflix Members but feel free to explore all links if you wish.
 
-    :cyberflix-logo: Main site: https://www.cyberflix.io/ (Short Link: https://cyfx.io/)  
-    :cyberflix-jellyfin: Jellyfin: https://www.cyberflix.io/jellyfin/ (Short Link: https://cyfx.io/jelly)  
-    :cyberflix-ombi: Ombi: https://www.cyberflix.io/ombi/ (Short Link: https://cyfx.io/ombi)  
-    :cyberflix-organizr: Organizr: https://www.cyberflix.io/organizr/ (Short Link: https://cyfx.io/org)  
-    :cyberflix-discord: Discord Invite: https://discord.gg/gdt4WAq (Short Link: https://cyfx.io/disc)  
-    :cyberflix-heart: Donate: https://www.cyberflix.io/pages/donate.html (Short Link: https://cyfx.io/donr)  
+:cyberflix-logo: Main site: https://www.cyberflix.io/ (Short Link: https://cyfx.io/)  
+:cyberflix-jellyfin: Jellyfin: https://www.cyberflix.io/jellyfin/ (Short Link: https://cyfx.io/jelly)  
+:cyberflix-ombi: Ombi: https://www.cyberflix.io/ombi/ (Short Link: https://cyfx.io/ombi)  
+:cyberflix-organizr: Organizr: https://www.cyberflix.io/organizr/ (Short Link: https://cyfx.io/org)  
+:cyberflix-discord: Discord Invite: https://discord.gg/gdt4WAq (Short Link: https://cyfx.io/disc)  
+:cyberflix-heart: Donate: https://www.cyberflix.io/pages/donate.html (Short Link: https://cyfx.io/donr)  
 
-    :cyberflix-status: Server Status: https://status.cyberflix.io/ (Short Link: https://cyfx.io/stats)  
-    :cyberflix-librespeed: speed: Speedtest: https://speedtest.cyberflix.io/ (Short Link: https://cyfx.io/speed)  
-    :cyberflix-docs: Documentation: https://docs.cyberflix.io/ (Short Link: https://cyfx.io/docs)  
+:cyberflix-status: Server Status: https://status.cyberflix.io/ (Short Link: https://cyfx.io/stats)  
+:cyberflix-librespeed: speed: Speedtest: https://speedtest.cyberflix.io/ (Short Link: https://cyfx.io/speed)  
+:cyberflix-docs: Documentation: https://docs.cyberflix.io/ (Short Link: https://cyfx.io/docs)  
 
-    :cyberflix-docs: Terms of Service: https://docs.cyberflix.io/about/terms-and-conditions/ (Short Link: https://cyfx.io/terco)  
-    :cyberflix-docs: Privacy Policy: https://docs.cyberflix.io/about/privacy-policy/ (Short Link: https://cyfx.io/priv)  
-    :cyberflix-docs: Activity Agreement: https://docs.cyberflix.io/about/activity-agreement/ (Short Link: https://cyfx.io/activ)  
+:cyberflix-docs: Terms of Service: https://docs.cyberflix.io/about/terms-and-conditions/ (Short Link: https://cyfx.io/terco)  
+:cyberflix-docs: Privacy Policy: https://docs.cyberflix.io/about/privacy-policy/ (Short Link: https://cyfx.io/priv)  
+:cyberflix-docs: Activity Agreement: https://docs.cyberflix.io/about/activity-agreement/ (Short Link: https://cyfx.io/activ)  
 
-    :cyberflix-movie: Movie Library: https://trakt.tv/users/cyberflix-media-center/collection/movies/title/ (Short Link: https://cyfx.io/movlib)  
-    :cyberflix-tv: TV Show/Anime Library: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/ (Short Link: https://cyfx.io/tvlib)  
+:cyberflix-movie: Movie Library: https://trakt.tv/users/cyberflix-media-center/collection/movies/title/ (Short Link: https://cyfx.io/movlib)  
+:cyberflix-tv: TV Show/Anime Library: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/ (Short Link: https://cyfx.io/tvlib)  
