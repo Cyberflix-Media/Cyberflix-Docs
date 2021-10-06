@@ -1,10 +1,10 @@
 site_name: Cyberflix - Documentation
 site_description: The official documentation for the Cyberflix Media Center.
-site_author: BobDaGecko
+site_author: Cyberflix Media
 site_url: https://docs.cyberflix.io/
 
-repo_url: https://github.com/BobDaGecko/Cyberflix-Docs
-repo_name: BobDaGecko/Cyberflix-Docs
+repo_url: https://github.com/Cyberflix-Media/Cyberflix-Docs
+repo_name: Cyberflix-Media/Cyberflix-Docs
 
 theme:
   name: material
