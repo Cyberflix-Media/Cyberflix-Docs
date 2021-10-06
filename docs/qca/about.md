@@ -7,7 +7,7 @@ Welcome to the documentation for the Cyberflix Quality Control and Assurance Tea
 
     **Q: What all does the QCA do?**
 
-    A: You can see the full list of things they do under [Operations](https://docs.cyberflix.io/QCA/operations/).
+    A: You can see the full list of things they do under [Operations](https://docs.cyberflix.io/qca/operations/).
 
     **Q: Can I join?**
 
