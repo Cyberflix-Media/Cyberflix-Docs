@@ -21,7 +21,7 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 
     Yes it is. All the content is free. The Cyberflix Media Libraries source it’s content from to standards, the well known and widely used Bittorrent network and the lesser known Usenet. Both have contributed similar amounts of the content in the Cyberflix Media Libraries.
 
-??? question "Is this secure and safe for me to use then?"
+??? question "Is Cyberflix secure and safe for me to use?"
 
     It is very safe and secure for users to use. Cyberflix Members connect via an encrypted connection to the Cyberflix Media Center host server. No outside user can peer into what anyone is doing besides Cyberflix Media Staff. Cyberflix Members have no connection to the root sources of any of the data and they simply stream the content. A lot of security layers and protection has gone into protecting and ensuring the safety of Cyberflix Members.
 
