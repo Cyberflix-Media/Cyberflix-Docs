@@ -40,22 +40,49 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 ??? tip "Quick Access Links"
     Below is a list of links to different parts of the Cyberflix Media Center. Keep in mind that some of these links lead to parts only accessible to Cyberflix Members but feel free to explore all links if you wish.
 
-    :cyberflix-logo: Main site: [https://www.cyberflix.io/][1] (Short Link: https://cyfx.io/)  
-    :cyberflix-jellyfin: Jellyfin: https://www.cyberflix.io/jellyfin/ (Short Link: https://cyfx.io/jelly)  
-    :cyberflix-ombi: Ombi: https://www.cyberflix.io/ombi/ (Short Link: https://cyfx.io/ombi)  
-    :cyberflix-organizr: Organizr: https://www.cyberflix.io/organizr/ (Short Link: https://cyfx.io/org)  
-    :cyberflix-discord: Discord Invite: https://discord.gg/gdt4WAq (Short Link: https://cyfx.io/disc)  
-    :cyberflix-heart: Donate: https://www.cyberflix.io/pages/donate.html (Short Link: https://cyfx.io/donr)  
+    :cyberflix-logo: Main site: [https://www.cyberflix.io/][1] (Short Link: [https://cyfx.io/][2])  
+    :cyberflix-jellyfin: Jellyfin: [https://www.cyberflix.io/jellyfin/][3] (Short Link: [https://cyfx.io/jelly/][4])  
+    :cyberflix-ombi: Ombi: [https://www.cyberflix.io/ombi/][5] (Short Link: [https://cyfx.io/ombi/][6])  
+    :cyberflix-organizr: Organizr: [https://www.cyberflix.io/organizr/][7] (Short Link: [https://cyfx.io/org/][8])  
+    :cyberflix-discord: Discord Invite: [https://discord.gg/gdt4WAq][9] (Short Link: [https://cyfx.io/disc/][10])  
+    :cyberflix-heart: Donate: [https://www.cyberflix.io/pages/donate.html][11] (Short Link: https://cyfx.io/donr/[12])  
 
-    :cyberflix-status: Server Status: https://status.cyberflix.io/ (Short Link: https://cyfx.io/stats)  
-    :cyberflix-librespeed: speed: Speedtest: https://speedtest.cyberflix.io/ (Short Link: https://cyfx.io/speed)  
-    :cyberflix-docs: Documentation: https://docs.cyberflix.io/ (Short Link: https://cyfx.io/docs)  
+    :cyberflix-status: Server Status: [https://status.cyberflix.io/][13] (Short Link: [https://cyfx.io/stats/][14])  
+    :cyberflix-librespeed: speed: Speedtest: [https://speedtest.cyberflix.io/][15] (Short Link: [https://cyfx.io/speed/][16])  
+    :cyberflix-docs: Documentation: [https://docs.cyberflix.io/][17] (Short Link: [https://cyfx.io/docs/][18])  
 
-    :cyberflix-docs: Terms of Service: https://docs.cyberflix.io/about/terms-and-conditions/ (Short Link: https://cyfx.io/terco)  
-    :cyberflix-docs: Privacy Policy: https://docs.cyberflix.io/about/privacy-policy/ (Short Link: https://cyfx.io/priv)  
-    :cyberflix-docs: Activity Agreement: https://docs.cyberflix.io/about/activity-agreement/ (Short Link: https://cyfx.io/activ)  
+    :cyberflix-docs: Terms of Service: [https://docs.cyberflix.io/about/terms-and-conditions/][19] (Short Link: [https://cyfx.io/terco/][20])  
+    :cyberflix-docs: Privacy Policy: [https://docs.cyberflix.io/about/privacy-policy/][21] (Short Link: [https://cyfx.io/priv/][22])  
+    :cyberflix-docs: Activity Agreement: [https://docs.cyberflix.io/about/activity-agreement/][23] (Short Link: [https://cyfx.io/activ/][24])  
 
-    :cyberflix-movie: Movie Library: https://trakt.tv/users/cyberflix-media-center/collection/movies/title/ (Short Link: https://cyfx.io/movlib)  
-    :cyberflix-tv: TV Show/Anime Library: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/ (Short Link: https://cyfx.io/tvlib)  
+    :cyberflix-movie: Movie Library: [https://trakt.tv/users/cyberflix-media-center/collection/movies/title/][25] (Short Link: [https://cyfx.io/movlib/][26])  
+    :cyberflix-tv: TV Show/Anime Library: [https://trakt.tv/users/cyberflix-media-center/collection/shows/title/][27] (Short Link: [https://cyfx.io/tvlib/][28])  
 
     [1]: https://www.cyberflix.io/
+    [2]: https://cyfx.io/
+    [3]: https://www.cyberflix.io/jellyfin/
+    [4]: https://cyfx.io/jelly
+    [5]: https://www.cyberflix.io/ombi/
+    [6]: https://cyfx.io/ombi/
+    [7]: https://www.cyberflix.io/organizr/
+    [8]: https://cyfx.io/org/
+    [9]: https://discord.gg/gdt4WAq
+    [10]: https://cyfx.io/disc/
+    [11]: https://www.cyberflix.io/pages/donate.html
+    [12]: https://cyfx.io/donr/
+    [13]: https://status.cyberflix.io/
+    [14]: https://cyfx.io/stats/
+    [15]: https://speedtest.cyberflix.io/
+    [16]: https://cyfx.io/speed/
+    [17]: https://docs.cyberflix.io/
+    [18]: https://cyfx.io/docs/
+    [19]: https://docs.cyberflix.io/about/terms-and-conditions/
+    [20]: https://cyfx.io/terco/
+    [21]: https://docs.cyberflix.io/about/privacy-policy/
+    [22]: https://cyfx.io/priv/
+    [23]: https://docs.cyberflix.io/about/activity-agreement/
+    [24]: https://cyfx.io/activ/
+    [25]: https://trakt.tv/users/cyberflix-media-center/collection/movies/title/
+    [26]: https://cyfx.io/movlib/
+    [27]: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/
+    [28]: https://cyfx.io/tvlib/
