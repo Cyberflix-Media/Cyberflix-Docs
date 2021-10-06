@@ -1,3 +1,5 @@
+![](https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Logo-Title-Motto-Light.png)
+
 # Cyberflix Frequently Asked Questions
 Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions about the Cyberflix Media Center and it's operations. This page is both for Cyberflix Members and newcomers wishing to learn more. As always, be sure to visit the [Terms and Conditions](https://docs.cyberflix.io/about/terms-and-conditions) and [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy) before using any of our services.
 
