@@ -18,8 +18,8 @@ Below you can find the differnet clients and supported devices.
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/infuse.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/mrmc.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/webos.png" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Infuse</h1>                                                      | <h1>MrMC</h1>                                                      | <h1>LG webOS</h1>                                                      |
-    | <h2>3rd Party: Apple TV</h2>                             | <h2>3rd Party: Android/Fire TV, Apple TV</h2>                        |                        |
-    | [Go to App Store][5]{ .md-button }| [Go to Play Store][6]{ .md-button }                       |<h3>Coming Soon</h3>                        |
+    | <h3>3rd Party: Apple TV</h3>                             | <h3>3rd Party: Android/Fire TV, Apple TV</h3>                        |                        |
+    | [Go to App Store][5]{ .md-button }| [Go to Play Store][6]{ .md-button }                       |<h4>Coming Soon</h4>                        |
     |                              | [Go to App Store][7]{ .md-button }                        |                        |
     |                              | [Go to Amazon Store][8]{ .md-button }                        |                        |
 
