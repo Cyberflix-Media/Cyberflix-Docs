@@ -1,5 +1,5 @@
 # Clients
-The Cyberflix Media Library can be accessed anywhere in the world via Jellyfin. Of course Jellyfin can be accessed via a web browser on any device but Cyberflix Media staff recommends installing the official Jellyfin client for your device. Most web browsers on their own do not support some of the media formats that Cyberflix uses. This makes the Cyberflix host server have to transcode the file which uses a very high amount of rescources and can take away from the performance of the host server.
+The Cyberflix Media Library can be accessed anywhere in the world via Jellyfin. Of course Jellyfin can be accessed via a web browser on any device but Cyberflix Media Staff recommends installing the official Jellyfin client for your device. Most web browsers on their own do not support some of the media formats that Cyberflix uses. This makes the Cyberflix host server have to transcode the file which uses a very high amount of rescources and can take away from the performance of the host server.
 
 Below you can find the differnet clients and supported devices.
 
@@ -10,7 +10,7 @@ Below you can find the differnet clients and supported devices.
     | Android TV                                                      | Fire TV                                                      | Roku                                                      |
     | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][1]{ .md-button }                        |[Go to Channel Store][1]{ .md-button }                        |
     
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/kodi.png" width="300" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/xbox.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/playstation.png" /> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/kodi.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/xbox.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/playstation.png" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | Kodi                                                      | Xbox                                                      | Playstation                                                      |
     | [Go to Github][1]{ .md-button }                             | Coming Soon                        |Available on your Playstation Browser                        |
