@@ -9,4 +9,4 @@ Below you can find the differnet clients and supported devices.
 
 
 [1]: https://play.google.com/store/apps/details?id=org.jellyfin.androidtv
---8<-- "includes/glossary.md"
+*[transcode]: To change the file format during a stream for an unsupported device.
