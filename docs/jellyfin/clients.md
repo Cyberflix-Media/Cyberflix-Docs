@@ -4,11 +4,9 @@ The Cyberflix Media Library can be accessed anywhere in the world via Jellyfin. 
 Below you can find the differnet clients and supported devices.
 
 ??? "TV Clients"
-    | <img src="https://jellyfin.org/images/clients/androidtv.svg" /> | ![](https://jellyfin.org/images/clients/firetv.svg) |
-| ----------- | ------------------------------------ |
+    | ![](https://jellyfin.org/images/clients/androidtv.svg) | ![](https://jellyfin.org/images/clients/firetv.svg) |
+    | ----------- | ------------------------------------ |
     | [Go to Play Store][1]{ .md-button } | [Go to Amazon Store][1]{ .md-button } |
-    | `PUT`       | :material-check-all: Update resource |
-    | `DELETE`    | :material-close:     Delete resource |
 
 [1]: https://play.google.com/store/apps/details?id=org.jellyfin.androidtv
 --8<-- "includes/glossary.md"
