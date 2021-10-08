@@ -7,13 +7,13 @@ Below you can find the differnet clients and supported devices.
 
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/android-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/fire-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/roku.png" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-    | Android TV                                                      | Fire TV                                                      | Roku                                                      |
+    | <h1>Android TV</h1>                                                      | <h1>Fire TV</h1>                                                      | <h1>Roku</h1>                                                      |
     | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][2]{ .md-button }                        |[Go to Channel Store][3]{ .md-button }                        |
     
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/kodi.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/xbox.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/playstation.png" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-    | Kodi                                                      | Xbox                                                      | Playstation                                                      |
-    | [Go to Github][4]{ .md-button }                             | Coming Soon                        |Available on your Playstation Browser                        |
+    | <h1>Kodi</h1>                                                      | <h1>Xbox</h1>                                                      | <h1>Playstation</h1>                                                      |
+    | [Go to Github][4]{ .md-button }                             | <h4>Coming Soon</h4>                        |<h4>Available on your Playstation Browser</h4>                        |
     
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/infuse.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/mrmc.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/webos.png" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
