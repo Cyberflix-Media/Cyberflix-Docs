@@ -23,7 +23,8 @@ copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
 nav:
     - Home: index.md
     - FAQ: faq.md
-    - Jellyfin: jellyfin/temp.md
+    - Jellyfin: 
+        - About: jellyfin/about.md
     - Ombi: ombi/temp.md
     - Organizr: organizr/temp.md
     - Discord: discord/temp.md
