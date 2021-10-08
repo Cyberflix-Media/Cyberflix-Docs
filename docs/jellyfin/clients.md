@@ -5,15 +5,15 @@ Below you can find the differnet clients and supported devices.
 
 ??? "TV Clients"
 
-    | <img src="https://jellyfin.org/images/clients/androidtv.svg" /> | <img src="https://jellyfin.org/images/clients/firetv.svg" /> | <img src="https://jellyfin.org/images/clients/roku.svg" /> |
+    | <img src="https://jellyfin.org/images/clients/androidtv.svg" width="200" /> | <img src="https://jellyfin.org/images/clients/firetv.svg" width="200" /> | <img src="https://jellyfin.org/images/clients/roku.svg" width="200" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | Android TV                                                      | Fire TV                                                      | Roku                                                      |
     | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][1]{ .md-button }                        |[Go to Channel Store][1]{ .md-button }                        |
     
-    | <img src="https://jellyfin.org/images/clients/kodi.svg" width="100" /> | <img src="https://jellyfin.org/images/clients/xbox.svg" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/Playstation-Light.svg" width="100" /> |
+    | <img src="https://jellyfin.org/images/clients/kodi.svg" width="200" /> | <img src="https://jellyfin.org/images/clients/xbox.svg" width="200" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/Playstation-Light.svg" width="200" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | Kodi                                                      | Xbox                                                      | Playstation                                                      |
-    | [Go to Github][1]{ .md-button }                             | Coming Soon                        |Available in your Playstation Browser                        |
+    | [Go to Github][1]{ .md-button }                             | Coming Soon                        |Available on your Playstation Browser                        |
 
 
 
