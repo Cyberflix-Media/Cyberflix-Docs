@@ -5,12 +5,12 @@ Below you can find the differnet clients and supported devices.
 
 ??? "TV Clients"
 
-    | <img src="https://jellyfin.org/images/clients/androidtv.svg" width="200" /> | <img src="https://jellyfin.org/images/clients/firetv.svg" width="200" /> | <img src="https://jellyfin.org/images/clients/roku.svg" width="200" /> |
+    | <img src="https://jellyfin.org/images/clients/androidtv.svg" /> | <img src="https://jellyfin.org/images/clients/firetv.svg" /> | <img src="https://jellyfin.org/images/clients/roku.svg" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | Android TV                                                      | Fire TV                                                      | Roku                                                      |
     | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][1]{ .md-button }                        |[Go to Channel Store][1]{ .md-button }                        |
     
-    | <img src="https://jellyfin.org/images/clients/kodi.svg" width="200" /> | <img src="https://jellyfin.org/images/clients/xbox.svg" width="200" /> | <img src="https://jellyfin.org/images/clients/playstation-4.svg" width="500" /> |
+    | <img src="https://jellyfin.org/images/clients/kodi.svg" /> | <img src="https://jellyfin.org/images/clients/xbox.svg" /> | <img src="https://jellyfin.org/images/clients/playstation-4.svg" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | Kodi                                                      | Xbox                                                      | Playstation                                                      |
     | [Go to Github][1]{ .md-button }                             | Coming Soon                        |Available on your Playstation Browser                        |
