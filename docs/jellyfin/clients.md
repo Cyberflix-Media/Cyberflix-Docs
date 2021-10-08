@@ -5,8 +5,9 @@ Below you can find the differnet clients and supported devices.
 
 ??? "TV Clients"
     | ![](https://jellyfin.org/images/clients/androidtv.svg) | ![](https://jellyfin.org/images/clients/firetv.svg) |
-    | ----------- | ------------------------------------ |
-    | [Go to Play Store][1]{ .md-button } | [Go to Amazon Store][1]{ .md-button } |
+    |--------------------------------------------------------|-----------------------------------------------------|
+    | [Go to Play Store][1]{ .md-button }                    | [Go to Amazon Store][1]{ .md-button }               |
+
 
 [1]: https://play.google.com/store/apps/details?id=org.jellyfin.androidtv
 --8<-- "includes/glossary.md"
