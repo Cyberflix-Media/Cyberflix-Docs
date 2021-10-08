@@ -3,7 +3,7 @@ The Cyberflix Media Library can be accessed anywhere in the world via Jellyfin. 
 
 Below you can find the differnet clients and supported devices.
 
-??? "TV Clients"
+??? info "TV Clients"
 
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/android-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/fire-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/roku.png" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
