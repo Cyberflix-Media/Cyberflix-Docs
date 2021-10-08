@@ -10,10 +10,10 @@ Below you can find the differnet clients and supported devices.
     | Android TV                                                      | Fire TV                                                      | Roku                                                      |
     | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][1]{ .md-button }                        |[Go to Channel Store][1]{ .md-button }                        |
     
-    | <img src="https://jellyfin.org/images/clients/androidtv.svg" /> | <img src="https://jellyfin.org/images/clients/firetv.svg" /> | <img src="https://jellyfin.org/images/clients/roku.svg" /> |
+    | <img src="https://jellyfin.org/images/clients/kodi.svg" /> | <img src="https://jellyfin.org/images/clients/xbox.svg" /> | <img src="https://www.logo.wine/a/logo/PlayStation/PlayStation-Icon-White-Dark-Background-Logo.wine.svg" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-    | Android TV                                                      | Fire TV                                                      | Roku                                                      |
-    | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][1]{ .md-button }                        |[Go to Channel Store][1]{ .md-button }                        |
+    | Kodi                                                      | Xbox                                                      | Playstation                                                      |
+    | [Go to Github][1]{ .md-button }                             | Coming Soon                        |Available in your Playstation Browser                        |
 
 
 
