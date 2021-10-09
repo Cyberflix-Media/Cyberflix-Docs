@@ -21,11 +21,11 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 
 ??? question "Isn’t where Cyberflix gets it’s content piracy?"
 
-    Yes it is. All the content is free. The Cyberflix Media Libraries source it’s content from to standards, the well known and widely used Bittorrent network and the lesser known Usenet. Both have contributed similar amounts of the content in the Cyberflix Media Libraries.
+    Yes it is. Cyberflix Media only pays for access to the private sources. Due to this, please keep in mind that you are streaming pirated content and if you feel this is unethical the please do not use our services. The Cyberflix Media Libraries source their content from two standards, the well known and widely used Bittorrent network and the lesser known Usenet. Both have contributed similar amounts of the content in the Cyberflix Media Libraries.
 
 ??? question "Is Cyberflix secure and safe for me to use?"
 
-    It is very safe and secure for users to use. Cyberflix Members connect via an encrypted connection to the Cyberflix Media Center host server. No outside user can peer into what anyone is doing besides Cyberflix Media Staff. Cyberflix Members have no connection to the root sources of any of the data and they simply stream the content. A lot of security layers and protection has gone into protecting and ensuring the safety of Cyberflix Members.
+    It is very safe and secure for users to use. Cyberflix Members connect via an encrypted connection to the Cyberflix Media Center host server. No outside user can peer into what anyone is doing besides Cyberflix Media Staff. Cyberflix Members have no connection to the root sources of any of the data and they simply stream the content. A lot of security layers and protection has gone into protecting and ensuring the safety of Cyberflix Members. Unlike collecting pirated content yourself or visiting one of the common streaming sites across the internet, there is no risk to Cyberflix Members in using our services.
 
 ??? question "Is there a way to view the Cyberflix Media Libraries without being a member?"
 
