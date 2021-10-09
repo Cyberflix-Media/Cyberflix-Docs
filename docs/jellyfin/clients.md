@@ -23,7 +23,7 @@ Below you can find the differnet clients and supported devices.
     |                              | [Go to App Store][7]{ .md-button }                        |                        |
     |                              | [Go to Amazon Store][8]{ .md-button }                        |                        |
     
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/samsung-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/google-cast.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/airplay.png" /> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/samsung-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/google-cast.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/airplay.svg" /> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Samsung Tizen</h1>                                                      | <h1>Google Cast</h1>                                                      | <h1>AirPlay</h1>                                                      |
     | <h4>Coming Soon</h4>| <h4>Chromecast • Nest • Android TV • Others</h4> |<h4>iPhones • Macs • iPads • Apple TV • Others</h4>                        |
