@@ -1,8 +1,7 @@
 # Cyberflix Office of Quality Control and Assurance Operations Reference
 !!! note "Disclaimer"
 
-    Intended for Cyberflix Office of Quality Control and Assurance Testers
-    This is a reference manual, questions should asked via Discord Channels
+    Intended for Cyberflix Office of Quality Control and Assurance Testers. This is a reference manual, questions should asked via Discord Channels.
 
 ## Purpose
 The Cyberflix Office of Quality Control and Assurance is intended to assist and test in the operations of the Cyberflix Media Center. Each Member abides by the guidelines laid out by Administration (see [Guidelines](https://docs.cyberflix.io/cbttf/guidelines)). QCA Testers are on call to assist Administration in various functions and work with Administration while fulfilling assigned tasks. The Cyberflix Office of Quality Control and Assurance operates to ensure a safe, secure, and functional operation of the Cyberflix Media Center. They are volunteers in service to the Cyberflix Community and Administration.

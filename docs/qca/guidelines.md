@@ -1,7 +1,7 @@
 # Cyberflix Office of Quality Control and Assurance Tester Guidelines
 !!! note "Disclaimer"
 
-    Intended for Cyberflix Office of Quality Control and Assurance Testers
+    Intended for Cyberflix Office of Quality Control and Assurance Testers.
 
 ## Agreement
 Welcome to the Cyberflix Office of Quality Control and Assurance Tester Guidelines. These Guidelines are laid out in order to establish rules and standards for the Cyberflix Office of Quality Control and Assurance and it's Testers. It is required that all QCA Testers follow and abide by these Guidelines. Failure to comply will result in dismissal from their position with in the Cyberflix Office of Quality Control and Assurance. These Guidelines are written in accordance and as an extension of the Terms and Conditions of the Cyberflix Media Center. They are authorized, written, and represented by the Cyberflix Media Administrative team and BobDaGecko. These Guidelines are strictly enforced and all QCA Testers should review them regularly to ensure thorough understanding of what is expected of them and their behavior. The Cyberflix Office of Quality Control and Assurance was created to promote and improve the Cyberflix Media Center, QCA Testers work to and for this purpose.
