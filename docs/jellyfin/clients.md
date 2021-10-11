@@ -32,9 +32,9 @@ Below you can find the different clients and supported devices.
     
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/android.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/ios.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-    | <h1>Android</h1>                                                      | <h1>iOS</h1>                                                      |
-    | [Go to Play Store][5]{ .md-button }| [Go to App Store][6]{ .md-button }                       |
-    | [Go to F-Droid][7]{ .md-button }|                        |
+    | <h1>Android</h1> | <h1>iOS</h1> |
+    | [Go to Play Store][9]{ .md-button }| [Go to App Store][10]{ .md-button }|
+    | [Go to F-Droid][11]{ .md-button }|                        |
     
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/infuse.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/mrmc.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|
@@ -43,6 +43,13 @@ Below you can find the different clients and supported devices.
     | [Go to App Store][5]{ .md-button }| [Go to Play Store][6]{ .md-button }                       |
     |                              | [Go to App Store][7]{ .md-button }                        |
     |                              | [Go to Amazon Store][8]{ .md-button }                        |
+    
+??? info "Desktop Clients"
+
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/kodi.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/jellyfin.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/mpv-shim.svg" width="50%"/> |
+    |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
+    | <h1>Kodi</h1>                                                      | <h1>Jellyfin Media Player</h1>                                                      | <h1>Jellyfin MPV Shim</h1> |
+    | [Go to Github][4]{ .md-button }                             | [Go to Github][9]{ .md-button }                        |[Go to Github][10]{ .md-button }                        |
 
 
 
@@ -54,5 +61,7 @@ Below you can find the different clients and supported devices.
 [6]: https://play.google.com/store/apps/details?id=tv.mrmc.mrmc
 [7]: https://itunes.apple.com/us/app/mrmc/id1059536415?mt=8
 [8]: https://www.amazon.com/gp/product/B01ENT3I1Q/ref=mas_pm_mrmc
+[9]: https://github.com/jellyfin/jellyfin-media-player
+[10]: https://github.com/jellyfin/jellyfin-mpv-shim
 
 --8<-- "includes/glossary.md"
