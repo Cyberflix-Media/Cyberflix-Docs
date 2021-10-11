@@ -43,6 +43,10 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 
     We don’t often ask for donations despite the fact that we probably should. Server costs are high but we try to promote free and full access so we don’t offer any real incentive to donate. Donations, however, do ensure the longevity of the Cyberflix Media Center and ensure the free access we strive to provide. If you wish to donate, you can visit [here](https://www.cyberflix.io/pages/donate.html).
 
+??? question "What is the QCA?"
+
+    The QCA stands for the Cyberflix Office of Quality Control and Assurance and it principally manages a group of Cyberflix Members who work directly with Cyberflix Media Staff to test, and assist in the operations of the Cyberflix Media Center. The Cyberflix Media Center has many complicated parts to it and in order for Cyberflix Media Staff to ensure everything is working properly, it needs to be tested. This is what the Cyberflix Office of Quality Control and Assurance oversees. You can learn more about the QCA [here](https://docs.cyberflix.io/qca/about/).
+
 ??? tip "Quick Access Links"
     Below is a list of links to different parts of the Cyberflix Media Center. Keep in mind that some of these links lead to parts only accessible to Cyberflix Members but feel free to explore all links if you wish.
 
@@ -92,3 +96,5 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
     [26]: https://cyfx.io/movlib/
     [27]: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/
     [28]: https://cyfx.io/tvlib/
+
+--8<-- "includes/glossary.md"
