@@ -1,7 +1,7 @@
 # Clients
-The Cyberflix Media Library can be accessed anywhere in the world via Jellyfin. Of course Jellyfin can be accessed via a web browser on any device but Cyberflix Media Staff recommends installing the official Jellyfin client for your device. Most web browsers on their own do not support some of the media formats that Cyberflix uses. This makes the Cyberflix host server have to transcode the file which uses a very high amount of rescources and can take away from the performance of the host server.
+The Cyberflix Media Library can be accessed anywhere in the world via Jellyfin. Of course Jellyfin can be accessed via a web browser on any device but Cyberflix Media Staff recommends installing the official Jellyfin client for your device. Most web browsers on their own do not support some of the media formats that Cyberflix uses. This makes the Cyberflix host server have to transcode the file which uses a very high amount of resources and can take away from the performance of the host server.
 
-Below you can find the differnet clients and supported devices.
+Below you can find the different clients and supported devices.
 
 ??? info "TV Clients"
 
@@ -15,7 +15,7 @@ Below you can find the differnet clients and supported devices.
     | <h1>Kodi</h1>                                                      | <h1>Xbox</h1>                                                      | <h1>Playstation</h1>                                                      |
     | [Go to Github][4]{ .md-button }                             | <h4>Coming Soon</h4>                        |<h4>Available on your Playstation Browser</h4>                        |
     
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/infuse.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/mrmc.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/webos.svg" width="50%"/> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/infuse.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/mrmc.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/webOS.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Infuse</h1>                                                      | <h1>MrMC</h1>                                                      | <h1>LG webOS</h1>                                                      |
     | <h3>3rd Party: Apple TV</h3>                             | <h3>3rd Party: Android/Fire TV, Apple TV</h3>                        |                        |
