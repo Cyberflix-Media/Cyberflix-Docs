@@ -31,7 +31,7 @@ Below you can find the different clients and supported devices.
 ??? info "Mobile Clients"
     
     | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/android.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/ios.svg" width="50%"/> |
-    |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
+    |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Android</h1> | <h1>iOS</h1> |
     | [Go to Play Store][9]{ .md-button }| [Go to App Store][10]{ .md-button }|
     | [Go to F-Droid][11]{ .md-button }|                        |
