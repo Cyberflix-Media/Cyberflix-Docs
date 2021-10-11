@@ -29,15 +29,10 @@ Below you can find the different clients and supported devices.
     | <h4>Coming Soon</h4>| <h4>Chromecast • Nest • Android TV • Others</h4> |<h4>iPhones • Macs • iPads • Apple TV • Others</h4>                        |
     
 ??? info "Mobile Clients"
-
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/android.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/ios.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/roku.svg" width="50%"/> |
-    |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-    | <h1>Android TV</h1>                                                      | <h1>Fire TV</h1>                                                      | <h1>Roku</h1>                                                      |
-    | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][2]{ .md-button }                        |[Go to Channel Store][3]{ .md-button }                        |
     
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/kodi.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/xbox.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/infuse.svg" width="50%"/> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/android.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/ios.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-    | <h1>Kodi</h1>                                                      | <h1>Xbox</h1>                                                      |
+    | <h1>Android</h1>                                                      | <h1>iOS</h1>                                                      |
     | [Go to Play Store][5]{ .md-button }| [Go to App Store][6]{ .md-button }                       |
     | [Go to F-Droid][7]{ .md-button }|                        |
     
