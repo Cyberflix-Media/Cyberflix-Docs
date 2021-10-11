@@ -5,17 +5,17 @@ Below you can find the differnet clients and supported devices.
 
 ??? info "TV Clients"
 
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/android-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/fire-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/roku.png" /> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/android-tv.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/fire-tv.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/roku.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Android TV</h1>                                                      | <h1>Fire TV</h1>                                                      | <h1>Roku</h1>                                                      |
     | [Go to Play Store][1]{ .md-button }                             | [Go to Amazon Store][2]{ .md-button }                        |[Go to Channel Store][3]{ .md-button }                        |
     
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/kodi.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/xbox.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/playstation.png" /> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/kodi.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/xbox.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/playstation.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Kodi</h1>                                                      | <h1>Xbox</h1>                                                      | <h1>Playstation</h1>                                                      |
     | [Go to Github][4]{ .md-button }                             | <h4>Coming Soon</h4>                        |<h4>Available on your Playstation Browser</h4>                        |
     
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/infuse.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/mrmc.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/webos.png" /> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/infuse.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/mrmc.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/webos.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Infuse</h1>                                                      | <h1>MrMC</h1>                                                      | <h1>LG webOS</h1>                                                      |
     | <h3>3rd Party: Apple TV</h3>                             | <h3>3rd Party: Android/Fire TV, Apple TV</h3>                        |                        |
@@ -23,7 +23,7 @@ Below you can find the differnet clients and supported devices.
     |                              | [Go to App Store][7]{ .md-button }                        |                        |
     |                              | [Go to Amazon Store][8]{ .md-button }                        |                        |
     
-    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/samsung-tv.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/google-cast.png" /> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Misc/airplay.svg" width="50%" /> |
+    | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/samsung-tv.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/google-cast.svg" width="50%"/> | <img src="https://www.cyberflix.io/archive/assets/images/Logos/Clients/airplay.svg" width="50%"/> |
     |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
     | <h1>Samsung Tizen</h1>                                                      | <h1>Google Cast</h1>                                                      | <h1>AirPlay</h1>                                                      |
     | <h4>Coming Soon</h4>| <h4>Chromecast • Nest • Android TV • Others</h4> |<h4>iPhones • Macs • iPads • Apple TV • Others</h4>                        |
