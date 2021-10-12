@@ -5,7 +5,7 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 
 ??? question "What is the Cyberflix Media Center?"
 
-    The Cyberflix Media Center is an online streaming service aimed at offering high quality, free content for it's members. It was created by BobDaGecko after a lot of frustration with the common sketchy sites and the hassle of pirating content in general. It offers a very similar experience to other streaming services like Netflix, Disney+, HBO Max, etc. and also offers a request system and lively community. Currently the Cyberflix Media Center offers nearly 1000 movies and over 100 full TV shows. It also has a growing library of Anime.
+    The Cyberflix Media Center is private, member only streaming service and media solution aimed at offering high quality, free content for it's members. It was created by BobDaGecko after a lot of frustration with the common sketchy sites and the hassle of pirating content in general. It offers a very similar experience to other streaming services like Netflix, Disney+, HBO Max, etc. and also offers a request system and lively community. Currently the Cyberflix Media Center offers nearly 1000 movies and over 100 full TV shows. It also has a growing library of Anime.
 
 ??? question "How do I get access?"
 
