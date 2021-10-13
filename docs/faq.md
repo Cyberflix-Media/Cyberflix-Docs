@@ -17,19 +17,19 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
 
 ??? question "Where does Cyberflix get it’s content?"
 
-    The Cyberflix Media Libraries source their content from private, online sources. Some need to be paid, others are invite only. These sources have vast repositories of content and they offer very high quality. Much of the content found in the Cyberflix Media Libraries is higher quality than anything offered by many online streaming services such as Netflix.
+    The Cyberflix Media Library sources its content from private, online sources. Some need to be paid, others are invite only. These sources have vast repositories of content and they offer very high quality. Much of the content found in the Cyberflix Media Library is higher quality than anything offered by many online streaming services such as Netflix.
 
 ??? question "Isn’t where Cyberflix gets it’s content piracy?"
 
-    Yes it is. Cyberflix Media only pays for access to the private sources. Due to this, please keep in mind that you are streaming pirated content and if you feel this is unethical the please do not use our services. The Cyberflix Media Libraries source their content from two standards, the well known and widely used Bittorrent network and the lesser known Usenet. Both have contributed similar amounts of the content in the Cyberflix Media Libraries.
+    Yes it is. Cyberflix Media only pays for access to the private sources. Due to this, please keep in mind that you are streaming pirated content and if you feel this is unethical the please do not use our services. The Cyberflix Media Library sources its content from two standards, the well known and widely used Bittorrent network and the lesser known Usenet. Both have contributed similar amounts of the content in the Cyberflix Media Library.
 
 ??? question "Is Cyberflix secure and safe for me to use?"
 
     It is very safe and secure for users to use. Cyberflix Members connect via an encrypted connection to the Cyberflix Media Center host server. No outside user can peer into what anyone is doing besides Cyberflix Media Staff. Cyberflix Members have no connection to the root sources of any of the data and they simply stream the content. A lot of security layers and protection has gone into protecting and ensuring the safety of Cyberflix Members. Unlike collecting pirated content yourself or visiting one of the common streaming sites across the internet, there is no risk to Cyberflix Members in using our services.
 
-??? question "Is there a way to view the Cyberflix Media Libraries without being a member?"
+??? question "Is there a way to view the Cyberflix Media Library without being a member?"
 
-    Yes. The Cyberflix Media Libraries have all of it’s content pushed to the watch history tracking service Trakt. Cyberflix Media does not use this account for keeping track of anything but the content hosted by the Cyberflix Media Center. You can view the Cyberflix Media Libraries [here](https://www.cyberflix.io/pages/trakt.html).
+    Yes. The Cyberflix Media Library have all of it’s content pushed to the watch history tracking service Trakt. Cyberflix Media does not use this account for keeping track of anything but the content hosted by the Cyberflix Media Center. You can view the Cyberflix Media Library [here](https://www.cyberflix.io/pages/trakt.html).
 
 ??? question "Does Cyberflix offer 4k content?"
 
