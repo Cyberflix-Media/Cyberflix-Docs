@@ -23,6 +23,8 @@ copyright: Copyright &copy; 2021 Cyberflix Media. All rights reserved.
 nav:
     - Home: index.md
     - FAQ: faq.md
+    - CML: 
+        - About: cml/about.md
     - Jellyfin: 
         - About: jellyfin/about.md
         - Clients: jellyfin/clients.md
