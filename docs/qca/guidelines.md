@@ -39,7 +39,7 @@ Cyberflix Office of Quality Control and Assurance Accounts are wholly owned by C
 
 !!! note "Disclaimer"
 
-    Cyberflix Bug Testing QCA Accounts may be removed, changed, or reset at any time. QCA Testers should use their regular Cyberflix Account in order to save progress and other account data.
+    Cyberflix Media may may be remove, change, or reset QCA Accounts at any time. QCA Testers should use their regular Cyberflix Account in order to save progress and other account data.
 
 ## Activity
 As the chief testing operation for the Cyberflix Media Center, a high level of activity and involvement among QCA Testers is expected. Outside of Testing Operations directed by Cyberflix Media Administration or the Cyberflix Office of Quality Control and Assurance, QCA Testers must maintain a Activity Standing of Good or higher per month as defined in the [Cyberflix Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/#jellyfin-requirements). QCA Testers must also submit a request via the Ombi request system. Only one is required per month. Finally is general availability for Testing Operations, Syncplay Sessions, and QCA meetings in Discord. Below lays out what is expected.
