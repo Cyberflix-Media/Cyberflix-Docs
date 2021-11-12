@@ -19,7 +19,7 @@ As a user of Cyberflix Media services you agree to the following guidelines:
 8. Do not send others viruses or malware, attempt to phish others, or hack or DDoS them.
 9. Content considered “Not Safe for Work” or NSFW should be posted in appropriate channels. NSFW content includes content that includes nudity, excessive gore, and other content some may deem offensive. If you don’t know if content should be posted do not post it or contact Cyberflix Media Staff.
 10. Self promotion and solicitation is strictly prohibited unless given express permission by Cyberflix Media Staff.
-11. Use of Cyberflix Media services for discussing, enacting, or engaging int external disputes and conflicts is strictly prohibited. Any private disputes should be resolved in personal DMs. Users with issues and disputes with Cyberflix Media should contact Cyberflix Media Staff.
+11. Use of Cyberflix Media services for discussing, enacting, or engaging in external disputes and conflicts is strictly prohibited. Any private disputes should be resolved in personal DMs. Users with issues and disputes with Cyberflix Media should contact Cyberflix Media Staff.
 12. Users cannot use external relationships with Cyberflix Media Staff for personal gain. Cyberflix Media Staff does not recognize users in any way outside of the Cyberflix Media Center.
 13. Impersonating Cyberflix Media Staff is strictly prohibited.
 14. You may not sell your account or distribute it without express permission from Cyberflix Media Staff.
