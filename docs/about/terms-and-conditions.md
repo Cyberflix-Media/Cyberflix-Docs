@@ -1,5 +1,5 @@
 # Cyberflix Media Center Terms and Conditions
-## Last updated July 16, 2021
+## Last Updated: November 11, 2021.
 ________________________________________
 
 ## 1. AGREEMENT TO TERMS
@@ -42,33 +42,28 @@ Members can refer users to the application only during an application window. Me
 A poor submission or invalid application will require resubmission of a new application. If an application if failed to be submitted by the end of an application window, they're application will be rejected.
 
 ## 4. PROHIBITED CONDUCT
+Cyberflix Media offers its services free of charge to all of its users. In order to maintain the free access Members have, the following guidelines have been laid out for all users of Cyberflix Media services, operations, and the Cyberflix Media Center. In order to use Cyberflix Media Services, you must agree to the following conditions.
 
-You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us. 
+Cyberflix Media strictly prohibits external disputes between users to be engaged within Cyberflix Media services. Personal relationships with Cyberflix Media Staff, Cyberflix Members, and other users are to stay confidential. 
 
-As a user of the Site, you agree not to:
+Cyberflix Media may also terminate or suspend your access to any Cyberflix Media Service at any time, without notice, for any reason.
 
-1.	systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-2.	make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-3.	use the Site to advertise or offer to sell goods and services.
-4.	circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
-5.	engage in unauthorized framing of or linking to the Site.
-6.	trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
-7.	make improper use of our support services or submit false reports of abuse or misconduct.
-8.	engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-9.	interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
-10.	attempt to impersonate another user or person or use the username of another user.
-11.	sell or otherwise transfer your profile.
-12.	use any information obtained from the Site in order to harass, abuse, or harm another person.
-13.	use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
-14.	attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
-15.	harass, annoy, intimidate, or threaten any of our staff or support team engaged in providing any portion of the Site to you.
-16.	delete the copyright or other proprietary rights notice from any Content.
-17.	upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
-18.	upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
-19.	except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
-20.	disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
-21.	use the Site in a manner inconsistent with any applicable laws or regulations.
-22.	fail to abide by any regulation or policies laid out outside these Terms and Conditions including but not limited to the Privacy Policy, Activity Agreement, and the License Agreement.
+Cyberflix Media employs the use of voice over internet protocol service, Discord. Discord is primarily used as the primary form of communication between Cyberflix Media Staff and Cyberflix Members. Cyberflix Media provides Communication Channels designed to enable you to communicate with other Cyberflix Members and users. Cyberflix Media has no obligation to monitor these communication channels but it may do so in connection with providing Cyberflix Media services and operations. You acknowledge that any user content (including without limitation chats, postings, or materials posted by users) on the Communication Channels is neither endorsed nor controlled by us. Cyberflix Media will not under any circumstances be liable for any activity within Communication Channels. Cyberflix Media is not responsible for information that you choose to share on the Communication Channels, or for the actions of other users. 
+
+As a condition of your use of the Service, and without limiting your other obligations under these Terms, you agree to comply with the restrictions and rules of use set forth in these Terms and our Community Guidelines as well as any additional restrictions or rules (such as application-specific rules) set forth in specific Cyberflix Media services. As a user of Cyberflix Media Services, you agree not to:
+
+1. post, upload, transmit or otherwise disseminate information that is objectionable as outlined in our Community Guidelines;
+2. defame, libel, ridicule, mock, stalk, threaten, harass, intimidate or abuse anyone;
+3. engage in conduct that is fraudulent or illegal or otherwise harmful to Cyberflix Media or any other user;
+4. upload or transmit (or attempt to upload or transmit) files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files or data, or any other similar software or programs or engage in any other activity that may damage the operation of the Service or other users' computers;
+5. attempt to obtain passwords or other private information from other members;
+6. make improper use of our support services or submit false reports of abuse or misconduct;
+7. systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us;
+8. make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses;
+9. attempt to impersonate another user or person or use the username of another user;
+10. fail to abide by any regulation or policies laid out outside these Terms and Conditions including but not limited to the [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/), [Community Guidelines](https://docs.cyberflix.io/about/community-guidelines/), [Activity Agreement](https://docs.cyberflix.io/about/activity-agreement/), and the [License Agreement](https://docs.cyberflix.io/about/license/).
+
+These rules of use are not meant to be exhaustive, and we reserve the right to determine what conduct we consider to be a violation of the Terms, Community Guidelines or improper use of the Service and to take action including termination of your Account and exclusion from further participation in the Service.
 
 ## 5. USER GENERATED CONTRIBUTIONS
 

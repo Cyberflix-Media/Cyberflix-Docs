@@ -9,37 +9,39 @@ The legal stuff.
 Projects used by the Cyberflix Media Center.
 
 - autodl-irssi - No license.
-- Adobe Photoshop CC - [View license](https://www.adobe.com/legal/terms.html).
-- Docker - [View license](https://github.com/moby/moby/blob/master/LICENSE).
-- Bazarr - [View license](https://github.com/morpheus65535/bazarr/blob/master/LICENSE).
-- Google Drive - [View license](https://www.google.com/drive/terms-of-service/).
-- Hetzner installimage - [View license](https://github.com/hetzneronline/installimage/blob/master/LICENSE).
-- Jackett - [View license](https://github.com/Jackett/Jackett/blob/master/LICENSE).
-- Jellyfin - [View license](https://github.com/jellyfin/jellyfin/blob/master/LICENSE).
-- Jfa-Go - [View license](https://github.com/hrfee/jfa-go/blob/main/LICENSE).
-- LetsEncrypt - [View license](https://letsencrypt.org/repository/).
-- LibreSpeed - [View license](https://github.com/librespeed/speedtest/blob/master/LICENSE).
-- libtorrent - [View license](https://github.com/arvidn/libtorrent/blob/RC_2_0/LICENSE).
-- linuxserver - [View license](https://github.com/linuxserver/docker-documentation).
-- mergerfs - [View license](https://github.com/trapexit/mergerfs/blob/master/LICENSE).
-- MobaXterm - [View license](https://mobaxterm.mobatek.net/license.html).
-- Netdata - [View license](https://github.com/netdata/netdata/blob/master/LICENSE).
-- Nginx - [View license](https://nginx.org/LICENSE).
-- NZB360 - [View license](https://nzb360.com/forums/viewtopic.php?f=3&t=2).
-- NZBHydra 2 - [View license](https://github.com/theotherp/nzbhydra2/blob/master/LICENSE).
-- Ombi - [View license](https://github.com/Ombi-app/Ombi/blob/develop/LICENSE).
-- Organizr - [View license](https://github.com/causefx/Organizr/blob/v2-master/LICENSE).
-- Python - [View license](https://docs.python.org/3/license.html#history-and-license).
-- qBittorrent - [View license](https://github.com/qbittorrent/qBittorrent/blob/master/COPYING).
-- Radarr - [View license](https://github.com/Radarr/Radarr/blob/develop/LICENSE).
-- Rclone - [View license](https://github.com/rclone/rclone/blob/master/COPYING).
-- rTorrent - [View license](https://github.com/rakshasa/rtorrent/blob/master/COPYING).
-- ruTorrent - [View license](https://github.com/Novik/ruTorrent/blob/master/LICENSE.md).
-- Sabnzbd - [View license](https://github.com/sabnzbd/sabnzbd/blob/develop/LICENSE.txt).
-- Sonarr - [View license](https://github.com/Sonarr/Sonarr/blob/phantom-develop/LICENSE.md).
-- Swizzin - [View license](https://github.com/swizzin/swizzin/blob/master/LICENSE).
-- TRaSH Guides - [View license](https://github.com/TRaSH-/Guides/blob/master/LICENSE).
-- Upptime - [View license](https://github.com/upptime/upptime/blob/master/LICENSE).
+- Adobe Photoshop CC - [View license](https://www.adobe.com/legal/terms.html)
+- Docker - [View license](https://github.com/moby/moby/blob/master/LICENSE)
+- Bazarr - [View license](https://github.com/morpheus65535/bazarr/blob/master/LICENSE)
+- Forever - [View license](https://github.com/foreversd/forever/blob/master/LICENSE)
+- Google Drive - [View license](https://www.google.com/drive/terms-of-service/)
+- Hetzner installimage - [View license](https://github.com/hetzneronline/installimage/blob/master/LICENSE)
+- Jackett - [View license](https://github.com/Jackett/Jackett/blob/master/LICENSE)
+- Jellyfin - [View license](https://github.com/jellyfin/jellyfin/blob/master/LICENSE)
+- Jfa-Go - [View license](https://github.com/hrfee/jfa-go/blob/main/LICENSE)
+- LetsEncrypt - [View license](https://letsencrypt.org/repository/)
+- LibreSpeed - [View license](https://github.com/librespeed/speedtest/blob/master/LICENSE)
+- libtorrent - [View license](https://github.com/arvidn/libtorrent/blob/RC_2_0/LICENSE)
+- linuxserver - [View license](https://github.com/linuxserver/docker-documentation)
+- mergerfs - [View license](https://github.com/trapexit/mergerfs/blob/master/LICENSE)
+- MobaXterm - [View license](https://mobaxterm.mobatek.net/license.html)
+- Netdata - [View license](https://github.com/netdata/netdata/blob/master/LICENSE)
+- Nginx - [View license](https://nginx.org/LICENSE)
+- NZB360 - [View license](https://nzb360.com/forums/viewtopic.php?f=3&t=2)
+- NZBHydra 2 - [View license](https://github.com/theotherp/nzbhydra2/blob/master/LICENSE)
+- Ombi - [View license](https://github.com/Ombi-app/Ombi/blob/develop/LICENSE)
+- Organizr - [View license](https://github.com/causefx/Organizr/blob/v2-master/LICENSE)
+- Python - [View license](https://docs.python.org/3/license.html#history-and-license)
+- qBittorrent - [View license](https://github.com/qbittorrent/qBittorrent/blob/master/COPYING)
+- Radarr - [View license](https://github.com/Radarr/Radarr/blob/develop/LICENSE)
+- Rclone - [View license](https://github.com/rclone/rclone/blob/master/COPYING)
+- rTorrent - [View license](https://github.com/rakshasa/rtorrent/blob/master/COPYING)
+- ruTorrent - [View license](https://github.com/Novik/ruTorrent/blob/master/LICENSE.md)
+- Sabnzbd - [View license](https://github.com/sabnzbd/sabnzbd/blob/develop/LICENSE.txt)
+- Shlink - [View license](https://github.com/shlinkio/shlink/blob/develop/LICENSE)
+- Sonarr - [View license](https://github.com/Sonarr/Sonarr/blob/phantom-develop/LICENSE.md)
+- Swizzin - [View license](https://github.com/swizzin/swizzin/blob/master/LICENSE)
+- TRaSH Guides - [View license](https://github.com/TRaSH-/Guides/blob/master/LICENSE)
+- Upptime - [View license](https://github.com/upptime/upptime/blob/master/LICENSE)
 
 
 Many thanks to the authors and contributors of those wonderful projects.

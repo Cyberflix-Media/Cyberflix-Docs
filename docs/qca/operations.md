@@ -20,7 +20,7 @@ QCA Testers take part in heavy testing. Upon approval of a QCA Tester's applicat
  - Accessing Jellyfin via the different clients. QCA Testers should install and access Jellyfin through all Clients available to them. A list of available Jellyfin Clients can be found [here](https://jellyfin.org/clients/).
  - Exploring Jellyfin menus and libraries. QCA Testers should explore the Jellyfin Menus for bugs and inconsistences in branding and theme. They should keep an eye out for odd colors of elements, missing text, the Jellyfin logo, the Cyberflix logo (as requested to be reported). They should also look for bugs. These include, links or buttons taking the user to an unexpected result, broken links and buttons, missing menus, and unexpected results from use.
  - Watching content. QCA Testers should watch content in all the libraries. They should look out for poor quality and/or performance, subtitles absent, wrong, or not working, duplicates of content, missing episodes, and wrong title art.
- - Testing Syncplay. BobDaGecko and/or the Taskforce Director will create a party to test Syncplay. In these tests, QCA Testers will watch content with the intent of testing Syncplay. The Taskforce Director will report to BobDaGecko on the results of this session incase of BobDaGecko's absence.
+ - Testing Syncplay. BobDaGecko and/or the QCA Director will create a party to test Syncplay. In these tests, QCA Testers will watch content with the intent of testing Syncplay. The QCA Director will report to BobDaGecko on the results of this session incase of BobDaGecko's absence.
  - Various other duties will be assigned by BobDaGecko as needed.
 
 ### Ombi

@@ -19,6 +19,6 @@ Welcome to the documentation for the Cyberflix Office of Quality Control and Ass
 
     **Q: Are permission applied to user's accounts?**
 
-    A: No. QCA accounts are given out to Taskforce Members and are tightly controlled by Cyberflix Media and Administration. Any unauthorized action is monitored and can result in dismissal of a QCA Tester. There is no personalization allowed and accounts are deleted and recreated on a regular basis as needed.
+    A: No. QCA accounts are given out to QCA Testers and are tightly controlled by Cyberflix Media and Administration. Any unauthorized action is monitored and can result in dismissal of a QCA Tester. There is no personalization allowed and accounts are deleted and recreated on a regular basis as needed.
 
 --8<-- "includes/glossary.md"

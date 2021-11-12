@@ -1,5 +1,5 @@
 # Activity Agreement
-## Last updated October 14, 2021
+## Last updated November 11, 2021
 ________________________________________
 Welcome to the Activity Agreement for the Cyberflix Media Center. In order to endure an active and healthy community, the following agreement must be agreed to by all Members of the Cyberflix Media Center.
 
@@ -25,7 +25,7 @@ Activity can be maintained by doing the following:
 2. Participating in Discord
 3. Requesting new content on Ombi
 
-The easiest way to maintain Activity is to participate in the Discord. It is impeccable we receive feedback, insight, and involvement from Members. Cyberflix offers it's services for free and without any input from Members the direction and health of our service may deteriorate. Participating in Discord requires involvement in polls, community events such as watch parties, and discussion in chat channels.
+The easiest way to maintain Activity is to participate in the Discord. It is impeccable we receive feedback, insight, and involvement from Members. Cyberflix offers it's services for free and without any input from Members the direction and health of our service may deteriorate. Participating in Discord requires reacting to announcements, involvement in polls, community events such as watch parties, and discussion in chat channels.
 
 ### Jellyfin Requirements
 This table lists the requirements to maintain Activity via Jellyfin. It is based of content consumed per month.
