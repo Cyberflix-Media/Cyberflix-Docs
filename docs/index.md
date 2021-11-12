@@ -1,4 +1,4 @@
-![](https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Docs-Light.png)
+![](https://archive.cyberflix.io/images/titles/Cyberflix-Docs-Light.png)
 
 # Welcome
 Welcome to the official documentation for the Cyberflix Media Center. Here you will find important information, guides, troubleshooting tips and more. This is the Center's biggest resource and should always be referenced whenever an issue occurs.

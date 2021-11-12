@@ -55,7 +55,7 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
     :cyberflix-ombi: Ombi: [https://www.cyberflix.io/ombi/][5] (Short Link: [https://cyfx.io/ombi/][6])  
     :cyberflix-organizr: Organizr: [https://www.cyberflix.io/organizr/][7] (Short Link: [https://cyfx.io/org/][8])  
     :cyberflix-discord: Discord Invite: [https://discord.gg/gdt4WAq][9] (Short Link: [https://cyfx.io/disc/][10])  
-    :cyberflix-heart: Donate: [https://www.cyberflix.io/pages/donate.html][11] (Short Link: https://cyfx.io/donr/[12])  
+    :cyberflix-heart: Donate: [https://www.cyberflix.io/pages/donate.html][11] (Short Link: [https://cyfx.io/donr/][12])  
 
     :cyberflix-status: Server Status: [https://status.cyberflix.io/][13] (Short Link: [https://cyfx.io/stats/][14])  
     :cyberflix-librespeed: speed: Speedtest: [https://speedtest.cyberflix.io/][15] (Short Link: [https://cyfx.io/speed/][16])  
