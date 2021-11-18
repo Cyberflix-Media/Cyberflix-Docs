@@ -69,32 +69,32 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
     :cyberflix-tv: TV Show/Anime Library: [https://trakt.tv/users/cyberflix-media-center/collection/shows/title/][27] (Short Link: [https://cyfx.io/tvlib/][28])  
 
     [1]: https://www.cyberflix.io/
-    [2]: https://cyfx.io/
+    [2]: https://cyfx.io
     [3]: https://www.cyberflix.io/jellyfin/
     [4]: https://cyfx.io/jelly
     [5]: https://www.cyberflix.io/ombi/
-    [6]: https://cyfx.io/ombi/
+    [6]: https://cyfx.io/ombi
     [7]: https://www.cyberflix.io/organizr/
-    [8]: https://cyfx.io/org/
+    [8]: https://cyfx.io/org
     [9]: https://discord.gg/gdt4WAq
-    [10]: https://cyfx.io/disc/
+    [10]: https://cyfx.io/disc
     [11]: https://www.cyberflix.io/pages/donate.html
-    [12]: https://cyfx.io/donr/
+    [12]: https://cyfx.io/donr
     [13]: https://status.cyberflix.io/
-    [14]: https://cyfx.io/stats/
+    [14]: https://cyfx.io/stats
     [15]: https://speedtest.cyberflix.io/
-    [16]: https://cyfx.io/speed/
+    [16]: https://cyfx.io/speed
     [17]: https://docs.cyberflix.io/
-    [18]: https://cyfx.io/docs/
+    [18]: https://cyfx.io/docs
     [19]: https://docs.cyberflix.io/about/terms-and-conditions/
-    [20]: https://cyfx.io/terco/
+    [20]: https://cyfx.io/terco
     [21]: https://docs.cyberflix.io/about/privacy-policy/
-    [22]: https://cyfx.io/priv/
+    [22]: https://cyfx.io/priv
     [23]: https://docs.cyberflix.io/about/activity-agreement/
-    [24]: https://cyfx.io/activ/
+    [24]: https://cyfx.io/activ
     [25]: https://trakt.tv/users/cyberflix-media-center/collection/movies/title/
-    [26]: https://cyfx.io/movlib/
+    [26]: https://cyfx.io/movlib
     [27]: https://trakt.tv/users/cyberflix-media-center/collection/shows/title/
-    [28]: https://cyfx.io/tvlib/
+    [28]: https://cyfx.io/tvlib
 
 --8<-- "includes/glossary.md"
