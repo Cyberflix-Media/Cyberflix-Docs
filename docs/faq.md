@@ -58,7 +58,7 @@ Welcome to the Cyberflix FAQ. Here you can find many commonly asked questions ab
     :cyberflix-heart: Donate: [https://www.cyberflix.io/pages/donate.html][11] (Short Link: [https://cyfx.io/donr/][12])  
 
     :cyberflix-status: Server Status: [https://status.cyberflix.io/][13] (Short Link: [https://cyfx.io/stats/][14])  
-    :cyberflix-librespeed: speed: Speedtest: [https://speedtest.cyberflix.io/][15] (Short Link: [https://cyfx.io/speed/][16])  
+    :cyberflix-speed: Speedtest: [https://speedtest.cyberflix.io/][15] (Short Link: [https://cyfx.io/speed/][16])  
     :cyberflix-docs: Documentation: [https://docs.cyberflix.io/][17] (Short Link: [https://cyfx.io/docs/][18])  
 
     :cyberflix-docs: Terms of Service: [https://docs.cyberflix.io/about/terms-and-conditions/][19] (Short Link: [https://cyfx.io/terco/][20])  
