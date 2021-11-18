@@ -39,7 +39,7 @@ Registration is done through an application made available only during applicati
 
 Members can refer users to the application only during an application window. Members may not refer users to the application outside the application window. Members also cannot ask us for an application to share or for appeals.
 
-A poor submission or invalid application will require resubmission of a new application. If an application if failed to be submitted by the end of an application window, they're application will be rejected.
+A poor submission or invalid application will require resubmission of a new application. If an application is failed to be submitted by the end of an application window, they're application will be rejected.
 
 ## 4. PROHIBITED CONDUCT
 Cyberflix Media offers its services free of charge to all of its users. In order to maintain the free access Members have, the following guidelines have been laid out for all users of Cyberflix Media services, operations, and the Cyberflix Media Center. In order to use Cyberflix Media Services, you must agree to the following conditions.
