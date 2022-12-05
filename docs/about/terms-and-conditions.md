@@ -1,5 +1,5 @@
 # Cyberflix Media Center Terms and Conditions
-## Last Updated: October 03, 2022.
+## Last Updated: December 05, 2022.
 ________________________________________
 
 ## 1. AGREEMENT TO TERMS
@@ -142,9 +142,9 @@ We reserve the right, but not the obligation, to:
 
 ## 11. PRIVACY
 
-We care about data privacy and security. Please review our [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in Germany. 
+We care about data privacy and security. Please review our [Privacy Policy](https://docs.cyberflix.io/about/privacy-policy/). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in Canada. 
 
-If you access the Site from the European Union, Asia, America, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Germany, then through your continued use of the Site, you are transferring your data to Germany, and you expressly consent to have your data transferred to and processed in Germany. 
+If you access the Site from the European Union, Asia, America, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Canada, then through your continued use of the Site, you are transferring your data to Canada, and you expressly consent to have your data transferred to and processed in Canada. 
 
 Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 14 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.
 
@@ -190,7 +190,7 @@ You agree that we shall have no liability to you for any loss or corruption of a
 
 ## 19. DONATIONS AND FINANCIAL TRANSACTIONS
 
-The Cyberflix Media Center is not registered as a charity in either the United States or Germany and donations are accepted under the representation of BobDaGecko. If a donation has no purpose laid out by the donor, the funds will be attributed automatically towards the funding and maintenance of the operations of Cyberflix Media.
+The Cyberflix Media Center is not registered as a charity in either the United States or Canada and donations are accepted under the representation of BobDaGecko. If a donation has no purpose laid out by the donor, the funds will be attributed automatically towards the funding and maintenance of the operations of Cyberflix Media.
 
 All financial contributions must be made via official means listed on the Site.
 
